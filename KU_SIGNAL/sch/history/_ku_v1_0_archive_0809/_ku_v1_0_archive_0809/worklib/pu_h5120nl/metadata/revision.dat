@@ -1,0 +1,184 @@
+(Cell	pu_h5120nl
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.6)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	03/20/19,14:41:14)
+
+			(User	naliyang)
+
+			(Path	decspi_lib.pu_h5120nl)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(RevisionInfoBlock	
+
+				(Baselined	0)
+
+				(Revision	0.0.1)
+
+				(ModificationStatus	NULL)
+
+				(Status	Created)
+
+				(ErrorStatus	0)
+
+				(CreateInfo	
+
+					(Time	03/20/19,14:41:14)
+
+					(User	naliyang)
+
+					(Path	decspi_lib.pu_h5120nl)
+
+				)
+
+			)
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000088d72ae2)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/20/19,14:41:14)
+
+							(User	naliyang)
+
+							(Path	decspi_lib.pu_h5120nl)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c6a03b6)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000f125c9a5)
+
+			(Primitives	1
+
+				(Primitive	H5120NL
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/20/19,14:41:14)
+
+							(User	naliyang)
+
+							(Path	decspi_lib.pu_h5120nl)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	H5120NL
+
+							(PackType	H5120NL)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001de70412)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.6-S051 (v16-6-112ED))
+
+		(License	Concept_HDL_studio)
+
+	)
+
+	(Checksum	000000001c750379)
+
+)
+

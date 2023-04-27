@@ -1,0 +1,42 @@
+#ISCELL
+  standard sfdk_page1_a3 *
+  *
+#ISCELL
+  standard gnd *
+  page18_i1
+#CELL
+  rcl c *
+  page18_i10
+#CELL
+  rcl c *
+  page18_i11
+#CELL
+  _ku_v1_0 xilinx_xcku115_2flva1517i *
+  page18_i12
+#CELL
+  _ku_v1_0 xilinx_xcku115_2flva1517i *
+  page18_i13
+#CELL
+  rcl_s c_s *
+  page18_i2
+#CELL
+  rcl c *
+  page18_i3
+#CELL
+  rcl c *
+  page18_i4
+#CELL
+  rcl c *
+  page18_i5
+#CELL
+  rcl c *
+  page18_i6
+#CELL
+  rcl c *
+  page18_i7
+#ISCELL
+  standard vcc *
+  page18_i8
+#CELL
+  rcl c *
+  page18_i9

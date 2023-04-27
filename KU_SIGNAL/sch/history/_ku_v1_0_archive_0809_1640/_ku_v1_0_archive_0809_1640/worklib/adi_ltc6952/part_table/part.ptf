@@ -1,0 +1,15 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ADI_LTC6952'
+
+
+{========================================================================================}
+:PART_NUMBER(OPT) | JEDEC_TYPE(OPT)        | APP_NAME(OPT) | COMPANY(OPT) = DESIGN | CHECK | MODIFY | DATE         | L_W_H              | T_OPERATING ;
+{========================================================================================}
+'********'        | 'adi_qfn52_7x8_ep'     | 'LTC6952IUKG' | 'ADI'(!) = 'kita'     | '**'  | '**'   | '2022-06-09' | '7mm_8mm_0.75mm'   |'-40C - 85C'
+
+
+
+END_PART
+END.
+

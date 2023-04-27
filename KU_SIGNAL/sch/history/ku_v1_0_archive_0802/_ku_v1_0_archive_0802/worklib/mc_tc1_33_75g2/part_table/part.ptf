@@ -1,0 +1,16 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MC_TC1_33_75G2'
+
+
+{========================================================================================}
+:PART_NUMBER(OPT) | JEDEC_TYPE(OPT)      | APP_NAME(OPT) | COMPANY(OPT) = DESIGN | CHECK | MODIFY | DATE         | L_W_H              | T_OPERATING ;
+{========================================================================================}
+'********'        | 'macom_maba_007159'      | 'TC1-33-75G2+' | 'mini-circuits'(!) = 'kita'  | '**'  | '**'   | '2022-05-23' | '3.81mm_3.81mm_2.6mm'|'-40C - 85C'
+'********'        | 'macom_maba_007159_sp1'  | 'TC1-33-75G2+' | 'mini-circuits'(!) = 'kita'  | '**'  | '**'   | '2022-05-23' | '3.81mm_3.81mm_2.6mm'|'-40C - 85C'
+
+
+
+END_PART
+END.
+

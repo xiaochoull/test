@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MPS_MPM3632C'
+{========================================================================================}
+:PART_NUMBER(OPT)   | APP_NAME(OPT)    | JEDEC_TYPE(OPT)   | COMPANY(OPT)   | VALUE(OPT)       = L_W_T                 | DESIGN        | CHECK       | MODIFY | STATE | DATE         ;
+{========================================================================================}
+ '********'         | 'MPM3632CGQV' | 'MPS_QFN_20_S'    | 'MPS'          | 'MPM3632CGQV'(!) = '3.00MM_5.00MM_1.6MM' | 'cwx' | 'cwx' | 'cwx'   | '1'   | '2021-12-13'
+
+END_PART
+END.
+

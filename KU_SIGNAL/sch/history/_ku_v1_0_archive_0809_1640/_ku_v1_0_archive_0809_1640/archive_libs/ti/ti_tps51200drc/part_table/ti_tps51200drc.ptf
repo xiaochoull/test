@@ -1,0 +1,13 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TPS51200DRC'
+
+{========================================================================================}
+:PART_NUMBER(OPT)   | JEDEC_TYPE(OPT)   | APP_NAME(OPT)   | COMPANY(OPT)   | VALUE(OPT)     = DESIGN    | CHECK | MODIFY | COST | STATE | DATE         | L_W_T                  ;
+{========================================================================================}
+ '37010042'         | 'TI_QFN10P_20_S'  | 'TPS51200DRCT'  | 'TI'           | 'TPS51200DRCT'(!) = 'LICHENG' | '**'  | '**'   | '**' | '**'  | '2012-01-09' | '3.15mm_3.15mm_1.00mm'
+
+END_PART
+
+END.
+

@@ -1,0 +1,12 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MAR_88E1512'
+{========================================================================================}
+:PART_NUMBER(OPT)   | APP_NAME(OPT)   | JEDEC_TYPE(OPT)   | COMPANY(OPT)   | VALUE(OPT)     = SUPPLY_VOLTAGE          | TSTG            | TA            | L_W_T                  | DESIGN         | CHECK       | MODIFY | COST | STATE | DATE         ;
+{========================================================================================}
+ '********'         | '88E1512-XX-NNP2I000'    | 'MAR_QFN_56_S'   | 'Marvell'     | '88E1512-XX-NNP2I000'(!) = 'Min_-0.5V,Max_3.6V'   | '-55C TO +125C' | '+-40C TO +85C' | '8mm_8mm_1mm' | 'CWX' | 'CWX' | '**'   | '**' | '1'   | '2017-04-03'
+
+END_PART
+
+END.
+

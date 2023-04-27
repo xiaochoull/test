@@ -1,0 +1,184 @@
+(Cell	l_hq
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.11)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	03/27/18,11:05:42)
+
+			(User	naliyang)
+
+			(Path	zpuu_lib.l_hq)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(RevisionInfoBlock	
+
+				(Baselined	0)
+
+				(Revision	0.0.10)
+
+				(ModificationStatus	NULL)
+
+				(Status	Created)
+
+				(ErrorStatus	0)
+
+				(CreateInfo	
+
+					(Time	03/27/18,11:05:42)
+
+					(User	naliyang)
+
+					(Path	zpuu_lib.l_hq)
+
+				)
+
+			)
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000004216bc06)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.10)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/27/18,11:05:42)
+
+							(User	naliyang)
+
+							(Path	zpuu_lib.l_hq)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001b490379)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000453f7483)
+
+			(Primitives	1
+
+				(Primitive	L_HQ
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/27/18,11:05:42)
+
+							(User	naliyang)
+
+							(Path	zpuu_lib.l_hq)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	L_HQ
+
+							(PackType	L_HQ)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001ae8038e)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.6-S051 (v16-6-112ED))
+
+		(License	Concept_HDL_studio)
+
+	)
+
+	(Checksum	000000001ca303b0)
+
+)
+

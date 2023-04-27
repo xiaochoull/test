@@ -1,0 +1,13 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'LTM4644IY#PBF'
+
+{========================================================================================}
+:JEDEC_TYPE(OPT)   | APP_NAME(OPT)   | COMPANY(OPT)   | PART_NUMBER(OPT)   = OPERATING_TEMP_CASE | STORAGE_TEMPERATURE | DESIGN       | CHECK        | MODIFY | COST | STATE | DATE         | MAXIMUM_OPERATING_VOLTAGE | DC_OUTPUT_CURRENT ;
+{========================================================================================}
+ 'li_ltm4644_s'    | 'LTM4644IY#PBF' | 'linear'       | '**'(!)            = '-40 to +125'       | '-55 to +125'       | 'caoweixian' | 'caoweixian' | '**'   | '**' | '1'   | '2015-10-11' | '4V_14V'                  | '*'              
+
+END_PART
+
+END.
+

@@ -1,0 +1,202 @@
+(Cell	mar_88e1512
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	1.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	04/09/17,17:06:09)
+
+			(User	Administrator)
+
+			(Path	123_lib.mar_88e1512)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	2
+
+				(Symbol	sym_2
+
+					(Checksum	a41f3cd0)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	1.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/09/17,17:06:09)
+
+							(User	Administrator)
+
+							(Path	123_lib.mar_88e1512)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_1
+
+					(Checksum	9d3d03e6)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	1.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/09/17,17:06:09)
+
+							(User	Administrator)
+
+							(Path	123_lib.mar_88e1512)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	4fb80195)
+
+		)
+
+		(View	Chips
+
+			(Checksum	c35bc1f4)
+
+			(Primitives	1
+
+				(Primitive	MAR_88E1512
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	1.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/09/17,17:06:09)
+
+							(User	Administrator)
+
+							(Path	123_lib.mar_88e1512)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	MAR_88E1512
+
+							(PackType	MAR_88E1512)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(SWAP_INFO	'(S1+S2)')
+
+						(FunctionGroups	2
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	2[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_2)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	40330174)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-p003)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	8fab00e9)
+
+)
+

@@ -1,0 +1,69 @@
+#ISCELL
+  standard sfdk_page1_a3 *
+  *
+#CELL
+  _ku_v1_0 xl_xc7z045i900 *
+  page9_i1
+#CELL
+  rcl r *
+  page9_i10
+#CELL
+  rcl r *
+  page9_i11
+#CELL
+  rcl c *
+  page9_i12
+#CELL
+  rcl r *
+  page9_i17
+#CELL
+  rcl r *
+  page9_i18
+#CELL
+  rcl r *
+  page9_i19
+#CELL
+  rcl r *
+  page9_i20
+#ISCELL
+  standard gnd *
+  page9_i21
+#CELL
+  rcl c *
+  page9_i22
+#ISCELL
+  standard gnd *
+  page9_i23
+#CELL
+  rcl r *
+  page9_i24
+#CELL
+  rcl r *
+  page9_i25
+#ISCELL
+  standard vcc *
+  page9_i26
+#ISCELL
+  standard gnd *
+  page9_i27
+#CELL
+  _ku_v1_0 ttn_ox_xxxxx *
+  page9_i28
+#CELL
+  rcl r *
+  page9_i29
+#ISCELL
+  standard vcc *
+  page9_i30
+#ISCELL
+  standard vcc *
+  page9_i4
+#CELL
+  _ku_v1_0 xl_xc7z045i900 *
+  page9_i7
+#CELL
+  _ku_v1_0 xl_xc7z045i900 *
+  page9_i8
+#ISCELL
+  standard gnd *
+  page9_i9

@@ -1,0 +1,21 @@
+	(Comment
+		(Time 12/01/20,19:53:47)
+		(User Administrator)
+		(MsgId ECO_021)
+		(Text "Package ADI_ADP7104 added to cell")
+		(Param1 "ADI_ADP7104")
+	)
+	(Comment
+		(Time 12/01/20,19:55:19)
+		(User Administrator)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 "sym_1")
+	)
+	(Comment
+		(Time 12/01/20,20:01:25)
+		(User Administrator)
+		(MsgId ECO_211)
+		(Text "PTF file part.ptf added")
+		(Param1 "part.ptf")
+	)

@@ -1,0 +1,144 @@
+#ISCELL
+  standard sfdk_page1_a3 *
+  *
+#ISCELL
+  standard vcc *
+  page7_i113
+#CELL
+  _ku_v1_0 will_mos_n *
+  page7_i147
+#CELL
+  _ku_v1_0 will_mos_n *
+  page7_i149
+#CELL
+  rcl r *
+  page7_i157
+#ISCELL
+  standard gnd *
+  page7_i160
+#CELL
+  rcl_s r_s *
+  page7_i161
+#CELL
+  rcl r *
+  page7_i162
+#CELL
+  rcl r *
+  page7_i163
+#CELL
+  rcl r *
+  page7_i164
+#CELL
+  _ku_v1_0 ns_lm25069pmme_2 *
+  page7_i165
+#CELL
+  rcl r *
+  page7_i166
+#CELL
+  rcl r *
+  page7_i167
+#CELL
+  rcl c *
+  page7_i168
+#CELL
+  rcl c *
+  page7_i169
+#CELL
+  rcl r *
+  page7_i170
+#CELL
+  rcl r *
+  page7_i171
+#CELL
+  rcl r *
+  page7_i172
+#CELL
+  rcl c *
+  page7_i173
+#CELL
+  rcl c *
+  page7_i175
+#CELL
+  rcl c *
+  page7_i176
+#CELL
+  rcl c *
+  page7_i179
+#CELL
+  rcl c *
+  page7_i180
+#CELL
+  rcl c *
+  page7_i181
+#CELL
+  rcl c *
+  page7_i182
+#CELL
+  rcl r *
+  page7_i183
+#CELL
+  rcl r *
+  page7_i184
+#CELL
+  rcl r *
+  page7_i186
+#CELL
+  rcl c *
+  page7_i187
+#CELL
+  rcl c *
+  page7_i188
+#CELL
+  rcl c *
+  page7_i189
+#CELL
+  rcl c *
+  page7_i190
+#CELL
+  rcl c *
+  page7_i191
+#CELL
+  rcl c *
+  page7_i192
+#CELL
+  rcl c *
+  page7_i193
+#CELL
+  rcl c *
+  page7_i194
+#CELL
+  rcl c *
+  page7_i195
+#CELL
+  rcl c *
+  page7_i196
+#CELL
+  rcl c *
+  page7_i199
+#CELL
+  rcl c *
+  page7_i200
+#CELL
+  rcl c *
+  page7_i201
+#CELL
+  rcl c *
+  page7_i202
+#CELL
+  rcl c *
+  page7_i203
+#CELL
+  rcl c *
+  page7_i204
+#CELL
+  rcl r *
+  page7_i205
+#CELL
+  rcl c *
+  page7_i93
+#ISCELL
+  standard vcc *
+  page7_i96
+#CELL
+  ti ti_csd16403q5a *
+  page7_i97

@@ -1,0 +1,17 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MC_HFCN_XXXX_4PIN'
+
+
+
+{========================================================================================}
+
+:APP_NAME(OPT)    | JEDEC_TYPE(OPT)   | PART_NUMBER(OPT) | COMPANY(OPT)    | FILTER_TYPE(OPT)   | PASS_FREQ(OPT)    = DESIGN | CHECK  | DATE         | T_OPERATING  | L_W_H                 ;
+{========================================================================================}
+
+ 'HFCN-1100+'     | 'MC_FV1206_S'     | '********'       | 'mini-circuits' | 'HPF'              | '1500-3900MHz'(!) = 'kita' | '**'   | '2022-05-23' | '-40C - 85C' | '3.2mm_1.6mm_0.94mm'
+
+
+END_PART
+END.
+

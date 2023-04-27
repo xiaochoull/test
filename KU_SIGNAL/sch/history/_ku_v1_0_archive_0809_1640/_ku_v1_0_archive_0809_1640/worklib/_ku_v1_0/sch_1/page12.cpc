@@ -1,0 +1,219 @@
+#ISCELL
+  standard sfdk_page1_a3 *
+  *
+#CELL
+  rcl c *
+  page13_i100
+#CELL
+  rcl c *
+  page13_i101
+#CELL
+  rcl c *
+  page13_i102
+#CELL
+  rcl c *
+  page13_i103
+#CELL
+  rcl c *
+  page13_i104
+#CELL
+  _ku_v1_0 mar_88e1512 *
+  page13_i105
+#CELL
+  rcl c *
+  page13_i106
+#CELL
+  rcl c *
+  page13_i107
+#CELL
+  rcl c *
+  page13_i108
+#CELL
+  rcl c *
+  page13_i109
+#CELL
+  rcl c *
+  page13_i110
+#CELL
+  rcl c *
+  page13_i111
+#CELL
+  rcl c *
+  page13_i112
+#CELL
+  murata mur_blm18 *
+  page13_i113
+#CELL
+  rcl c *
+  page13_i114
+#CELL
+  rcl c *
+  page13_i115
+#CELL
+  rcl c *
+  page13_i116
+#CELL
+  rcl c *
+  page13_i117
+#CELL
+  murata mur_blm18 *
+  page13_i118
+#CELL
+  murata mur_blm18 *
+  page13_i119
+#CELL
+  murata mur_blm18 *
+  page13_i120
+#ISCELL
+  standard vcc *
+  page13_i121
+#ISCELL
+  standard vcc *
+  page13_i122
+#ISCELL
+  standard vcc *
+  page13_i123
+#ISCELL
+  standard vcc *
+  page13_i124
+#CELL
+  _ku_v1_0 ttn_xx_xxxx *
+  page13_i125
+#ISCELL
+  standard vcc *
+  page13_i126
+#ISCELL
+  standard vcc *
+  page13_i127
+#ISCELL
+  standard vcc *
+  page13_i128
+#CELL
+  rcl c *
+  page13_i129
+#CELL
+  rcl c *
+  page13_i130
+#CELL
+  rcl c *
+  page13_i131
+#CELL
+  rcl c *
+  page13_i132
+#CELL
+  rcl r *
+  page13_i133
+#CELL
+  rcl r *
+  page13_i134
+#CELL
+  rcl r *
+  page13_i135
+#CELL
+  rcl r *
+  page13_i136
+#ISCELL
+  standard vcc *
+  page13_i27
+#ISCELL
+  standard vcc *
+  page13_i31
+#ISCELL
+  standard vcc *
+  page13_i32
+#ISCELL
+  standard vcc *
+  page13_i44
+#ISCELL
+  standard gnd *
+  page13_i50
+#CELL
+  rcl c *
+  page13_i51
+#CELL
+  rcl c *
+  page13_i52
+#ISCELL
+  standard gnd *
+  page13_i57
+#ISCELL
+  standard gnd *
+  page13_i59
+#ISCELL
+  standard gnd *
+  page13_i61
+#ISCELL
+  standard gnd *
+  page13_i63
+#ISCELL
+  standard gnd *
+  page13_i65
+#ISCELL
+  standard pgnd_x *
+  page13_i67
+#CELL
+  murata mur_blm18 *
+  page13_i75
+#CELL
+  rcl_s c_s *
+  page13_i76
+#CELL
+  _ku_v1_0 pu_h5120nl *
+  page13_i77
+#CELL
+  rcl r *
+  page13_i78
+#CELL
+  rcl r *
+  page13_i79
+#CELL
+  rcl r *
+  page13_i80
+#CELL
+  rcl r *
+  page13_i81
+#CELL
+  rcl r *
+  page13_i82
+#CELL
+  rcl r *
+  page13_i83
+#CELL
+  _ku_v1_0 led *
+  page13_i84
+#CELL
+  _ku_v1_0 led *
+  page13_i85
+#ISCELL
+  standard gnd *
+  page13_i88
+#CELL
+  _ku_v1_0 mar_88e1512 *
+  page13_i90
+#ISCELL
+  standard gnd *
+  page13_i91
+#ISCELL
+  standard gnd *
+  page13_i92
+#ISCELL
+  standard gnd *
+  page13_i93
+#ISCELL
+  standard gnd *
+  page13_i94
+#CELL
+  rcl c *
+  page13_i95
+#CELL
+  rcl c *
+  page13_i96
+#CELL
+  rcl r *
+  page13_i97
+#CELL
+  rcl c *
+  page13_i98
+#CELL
+  rcl c *
+  page13_i99

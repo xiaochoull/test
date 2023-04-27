@@ -1,0 +1,242 @@
+(Cell	is_is21es04gjcli_s
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.4)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	04/24/18,15:19:36)
+
+			(User	naliyang)
+
+			(Path	zpuz_lib.is_is21es04gjcli_s)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	03/20/18,10:37:37)
+
+			(User	naliyang)
+
+			(Path	zpuz_lib.is_is21es04gjcli)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(RevisionInfoBlock	
+
+				(Baselined	0)
+
+				(Revision	0.0.3)
+
+				(ModificationStatus	NULL)
+
+				(Status	Created)
+
+				(ErrorStatus	0)
+
+				(CreateInfo	
+
+					(Time	04/24/18,15:19:36)
+
+					(User	naliyang)
+
+					(Path	zpuz_lib.is_is21es04gjcli_s)
+
+				)
+
+			)
+
+			(Symbols	2
+
+				(Symbol	sym_2
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000037f35946)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/24/18,15:19:36)
+
+							(User	naliyang)
+
+							(Path	zpuz_lib.is_is21es04gjcli_s)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000492c8182)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/24/18,15:19:36)
+
+							(User	naliyang)
+
+							(Path	zpuz_lib.is_is21es04gjcli_s)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001cbc03e1)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000004c0c1008)
+
+			(Primitives	1
+
+				(Primitive	IS_IS21ES04GJCLI_S
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/24/18,15:19:36)
+
+							(User	naliyang)
+
+							(Path	zpuz_lib.is_is21es04gjcli_s)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	IS_IS21ES04GJCLI_S
+
+							(PackType	IS_IS21ES04GJCLI_S)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	2
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	2[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_2)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001bd2038c)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.6-S051 (v16-6-112ED))
+
+		(License	Concept_HDL_studio)
+
+	)
+
+	(Checksum	000000001c8403a8)
+
+)
+

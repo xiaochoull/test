@@ -1,0 +1,411 @@
+#ISCELL
+  standard sfdk_page1_a3 *
+  *
+#ISCELL
+  standard gnd *
+  page24_i1
+#CELL
+  _ku_v1_0 adi_ltc6952 *
+  page24_i106
+#ISCELL
+  standard gnd *
+  page24_i107
+#CELL
+  _ku_v1_0 vco_cvco55cc_xxxx *
+  page24_i108
+#CELL
+  _ku_v1_0 dp_o11f_o11h *
+  page24_i109
+#ISCELL
+  standard gnd *
+  page24_i11
+#CELL
+  rcl r *
+  page24_i110
+#CELL
+  _ku_v1_0 led *
+  page24_i111
+#ISCELL
+  standard gnd *
+  page24_i112
+#CELL
+  rcl r *
+  page24_i113
+#ISCELL
+  standard vcc *
+  page24_i114
+#CELL
+  rcl c *
+  page24_i115
+#CELL
+  rcl c *
+  page24_i116
+#ISCELL
+  standard gnd *
+  page24_i117
+#ISCELL
+  standard vcc *
+  page24_i118
+#CELL
+  rcl c *
+  page24_i12
+#ISCELL
+  standard vcc *
+  page24_i122
+#CELL
+  rcl r *
+  page24_i123
+#CELL
+  rcl c *
+  page24_i124
+#CELL
+  rcl c *
+  page24_i125
+#CELL
+  _ku_v1_0 qorvo_rfsw1012 *
+  page24_i126
+#CELL
+  rcl c *
+  page24_i127
+#ISCELL
+  standard gnd *
+  page24_i128
+#CELL
+  murata mur_blm18 *
+  page24_i13
+#ISCELL
+  standard gnd *
+  page24_i131
+#ISCELL
+  standard vcc *
+  page24_i132
+#CELL
+  rcl c *
+  page24_i133
+#ISCELL
+  standard gnd *
+  page24_i134
+#CELL
+  rcl c *
+  page24_i135
+#CELL
+  rcl c *
+  page24_i136
+#CELL
+  rcl c *
+  page24_i137
+#CELL
+  rcl r *
+  page24_i138
+#ISCELL
+  standard gnd *
+  page24_i140
+#ISCELL
+  standard gnd *
+  page24_i141
+#CELL
+  rcl c *
+  page24_i142
+#CELL
+  rcl c *
+  page24_i143
+#CELL
+  murata mur_blm18 *
+  page24_i144
+#CELL
+  murata mur_blm18 *
+  page24_i145
+#ISCELL
+  standard vcc *
+  page24_i146
+#ISCELL
+  standard vcc *
+  page24_i147
+#CELL
+  murata mur_blm18 *
+  page24_i148
+#ISCELL
+  standard vcc *
+  page24_i149
+#CELL
+  _ku_v1_0 adi_ltc2601 *
+  page24_i15
+#CELL
+  rcl_s c_s *
+  page24_i150
+#CELL
+  murata mur_blm18 *
+  page24_i151
+#ISCELL
+  standard vcc *
+  page24_i153
+#ISCELL
+  standard vcc *
+  page24_i154
+#ISCELL
+  standard vcc *
+  page24_i155
+#ISCELL
+  standard vcc *
+  page24_i156
+#CELL
+  rcl c *
+  page24_i157
+#CELL
+  rcl c *
+  page24_i158
+#CELL
+  rcl c *
+  page24_i159
+#CELL
+  rcl c *
+  page24_i160
+#CELL
+  rcl c *
+  page24_i161
+#CELL
+  rcl c *
+  page24_i162
+#CELL
+  rcl c *
+  page24_i163
+#CELL
+  rcl c *
+  page24_i164
+#CELL
+  rcl c *
+  page24_i165
+#CELL
+  rcl c *
+  page24_i166
+#CELL
+  rcl c *
+  page24_i167
+#CELL
+  rcl c *
+  page24_i168
+#CELL
+  rcl c *
+  page24_i169
+#ISCELL
+  standard gnd *
+  page24_i17
+#CELL
+  rcl c *
+  page24_i170
+#CELL
+  rcl c *
+  page24_i171
+#CELL
+  rcl c *
+  page24_i172
+#CELL
+  rcl c *
+  page24_i173
+#CELL
+  rcl c *
+  page24_i174
+#CELL
+  rcl c *
+  page24_i175
+#CELL
+  rcl c *
+  page24_i176
+#CELL
+  rcl c *
+  page24_i177
+#CELL
+  rcl c *
+  page24_i178
+#CELL
+  rcl c *
+  page24_i179
+#CELL
+  rcl r *
+  page24_i18
+#CELL
+  rcl c *
+  page24_i180
+#ISCELL
+  standard gnd *
+  page24_i181
+#ISCELL
+  standard vcc *
+  page24_i182
+#CELL
+  rcl c *
+  page24_i183
+#CELL
+  rcl c *
+  page24_i184
+#ISCELL
+  standard gnd *
+  page24_i185
+#CELL
+  rcl c *
+  page24_i186
+#ISCELL
+  standard gnd *
+  page24_i187
+#CELL
+  rcl r *
+  page24_i188
+#CELL
+  rcl r *
+  page24_i189
+#CELL
+  rcl r *
+  page24_i19
+#CELL
+  rcl r *
+  page24_i190
+#CELL
+  rcl c *
+  page24_i191
+#CELL
+  rcl c *
+  page24_i192
+#CELL
+  rcl c *
+  page24_i193
+#CELL
+  rcl r *
+  page24_i194
+#CELL
+  rcl r *
+  page24_i195
+#CELL
+  rcl c *
+  page24_i196
+#ISCELL
+  standard gnd *
+  page24_i197
+#CELL
+  rcl c *
+  page24_i199
+#ISCELL
+  standard gnd *
+  page24_i2
+#CELL
+  rcl r *
+  page24_i20
+#CELL
+  rcl r *
+  page24_i200
+#CELL
+  rcl c *
+  page24_i201
+#CELL
+  rcl c *
+  page24_i202
+#CELL
+  rcl c *
+  page24_i203
+#CELL
+  rcl c *
+  page24_i204
+#CELL
+  rcl c *
+  page24_i205
+#ISCELL
+  standard gnd *
+  page24_i206
+#ISCELL
+  standard vcc *
+  page24_i207
+#CELL
+  murata mur_blm18 *
+  page24_i208
+#CELL
+  rcl c *
+  page24_i209
+#CELL
+  rcl r *
+  page24_i210
+#CELL
+  rcl c *
+  page24_i211
+#CELL
+  rcl r *
+  page24_i212
+#CELL
+  _ku_v1_0 adi_adclk914 *
+  page24_i213
+#ISCELL
+  standard gnd *
+  page24_i214
+#CELL
+  rcl c *
+  page24_i215
+#CELL
+  rcl c *
+  page24_i218
+#CELL
+  rcl c *
+  page24_i219
+#ISCELL
+  standard gnd *
+  page24_i22
+#CELL
+  rcl c *
+  page24_i220
+#ISCELL
+  standard gnd *
+  page24_i221
+#CELL
+  murata mur_blm18 *
+  page24_i222
+#ISCELL
+  standard vcc *
+  page24_i223
+#ISCELL
+  standard vcc *
+  page24_i224
+#CELL
+  rcl r *
+  page24_i225
+#CELL
+  rcl r *
+  page24_i226
+#ISCELL
+  standard vcc *
+  page24_i227
+#CELL
+  rcl r *
+  page24_i228
+#CELL
+  rcl r *
+  page24_i229
+#ISCELL
+  standard gnd_x *
+  page24_i23
+#CELL
+  rcl c *
+  page24_i24
+#CELL
+  rcl c *
+  page24_i25
+#CELL
+  murata mur_blm18 *
+  page24_i28
+#CELL
+  rcl c *
+  page24_i29
+#CELL
+  rcl r *
+  page24_i4
+#CELL
+  rcl r *
+  page24_i6
+#CELL
+  rcl c *
+  page24_i68
+#CELL
+  _ku_v1_0 sem_sc431cskqtrt *
+  page24_i7
+#CELL
+  rcl r *
+  page24_i8
+#CELL
+  rcl r *
+  page24_i9

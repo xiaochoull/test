@@ -1,0 +1,7 @@
+DEFINE rcl    archive_libs/rcl
+DEFINE rcl_s    archive_libs/rcl_s
+DEFINE murata    archive_libs/murata
+DEFINE ti    archive_libs/ti
+DEFINE micron    archive_libs/micron
+DEFINE _ku_v1_0    worklib
+DEFINE standard    archive_libs/standard

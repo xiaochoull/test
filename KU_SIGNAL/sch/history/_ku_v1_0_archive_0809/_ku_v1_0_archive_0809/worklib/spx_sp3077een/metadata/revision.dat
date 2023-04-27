@@ -1,0 +1,194 @@
+(Cell	spx_SP3077EEN
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	12/20/18,18:16:13)
+
+			(User	naliyang)
+
+			(Path	z79core_lib.spx_SP3077EEN)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	12/20/18,17:00:03)
+
+			(User	naliyang)
+
+			(Path	z79core_lib.sp_sp490een)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(RevisionInfoBlock	
+
+				(Baselined	0)
+
+				(Revision	0.0.1)
+
+				(ModificationStatus	NULL)
+
+				(Status	Created)
+
+				(ErrorStatus	0)
+
+				(CreateInfo	
+
+					(Time	12/20/18,18:16:13)
+
+					(User	naliyang)
+
+					(Path	z79core_lib.spx_SP3077EEN)
+
+				)
+
+			)
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000006e5a0fc1)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/20/18,18:16:13)
+
+							(User	naliyang)
+
+							(Path	z79core_lib.spx_SP3077EEN)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001d4f03dc)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000057c8af61)
+
+			(Primitives	1
+
+				(Primitive	SPX_SP3077EEN
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/20/18,18:16:13)
+
+							(User	naliyang)
+
+							(Path	z79core_lib.spx_SP3077EEN)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	SPX_SP3077EEN
+
+							(PackType	SPX_SP3077EEN)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001b1f0381)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.6-S051 (v16-6-112ED))
+
+		(License	Concept_HDL_studio)
+
+	)
+
+	(Checksum	000000001c240377)
+
+)
+

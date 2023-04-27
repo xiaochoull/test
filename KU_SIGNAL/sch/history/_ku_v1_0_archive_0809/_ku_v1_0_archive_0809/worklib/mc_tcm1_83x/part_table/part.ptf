@@ -1,0 +1,15 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MC_TCM1_83X'
+
+
+{========================================================================================}
+:PART_NUMBER(OPT) | JEDEC_TYPE(OPT)      | APP_NAME(OPT) | COMPANY(OPT) = DESIGN | CHECK | MODIFY | DATE         | L_W_H              | T_OPERATING ;
+{========================================================================================}
+'********'        | 'MC_TCM1_83X'  | 'TCM1-83X+' | 'mini-circuits'(!) = 'kita'  | '**'  | '**'   | '2022-05-31' | '4.06mm_3.81mm_4.06mm'|'-40C - 85C'
+
+
+
+END_PART
+END.
+

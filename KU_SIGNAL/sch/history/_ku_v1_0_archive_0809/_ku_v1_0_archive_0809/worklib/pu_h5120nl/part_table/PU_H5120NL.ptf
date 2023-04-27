@@ -1,0 +1,13 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'H5120NL'
+
+{========================================================================================}
+:'PART_NUMBER'(OPT) |'JEDEC_TYPE'(OPT) |'APP_NAME'(OPT) |'COMPANY'(OPT)='DESIGN' |'CHECK' |'MODIFY' |'COST' |'STATE' |'DATE' |'L_W_T' |'INSERTION_LOSS' |'HIPOT' |'OPERATING_TEMP';
+{========================================================================================}
+'**' |'PU_H5120NL_S' |'H5120NL' |'PULSE'(!)='fyadan' |'fyadan' |'**' |'**' |'1' |'2019-03-20' |'16.51_9.652_2.083mm' |'1.0DB' |'1500VRMS' |'0TO70C'
+'**' |'PU_H5120NL_S' |'HX5120NL' |'PULSE'(!)='fyadan' |'fyadan' |'**' |'**' |'1' |'2019-03-20' |'16.51_9.652_2.083mm' |'1.0DB' |'1500VRMS' |'-40TO85C'
+END_PART
+
+END.
+

@@ -1,0 +1,13 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SPX_SP3077EEN'
+
+{========================================================================================}
+:'PART_NUMBER'(OPT)    |'JEDEC_TYPE'(OPT)    |'APP_NAME'(OPT)    |'COMPANY'(OPT)    |'VALUE'(OPT)     = 'DESIGN'    |'CHECK'    |'MODIFY'    |'COST'    |'STATE'    |'DATE'          |'L_W_T'             ;
+{========================================================================================}
+ '**'                  |'SPX_NSOIC8_S'       |'SP3077EEN'         |'SIPEX'           |'SP3077EEN' (!)   = '**'      |'**'     |'**'      |'**'    |'1'      |'2018-12-20'  |'4.9_6.2_1.75mm'  
+
+END_PART
+
+END.
+

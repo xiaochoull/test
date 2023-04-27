@@ -1,0 +1,194 @@
+(Cell	adi_adclk914
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.8)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	06/16/22,10:31:25)
+
+			(User	Administrator)
+
+			(Path	ku_lib.adi_adclk914)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	06/16/22,10:54:53)
+
+			(User	Administrator)
+
+			(Path	ku_lib.adi_adclk914)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(RevisionInfoBlock	
+
+				(Baselined	0)
+
+				(Revision	0.0.7)
+
+				(ModificationStatus	NULL)
+
+				(Status	)
+
+				(ErrorStatus	0)
+
+				(CreateInfo	
+
+					(Time	)
+
+					(User	)
+
+					(Path	)
+
+				)
+
+			)
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000b60b9acb)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/16/22,10:35:21)
+
+							(User	Administrator)
+
+							(Path	ku_lib.adi_adclk914)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001d93040a)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000009ce846d1)
+
+			(Primitives	1
+
+				(Primitive	ADI_ADCLK914
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/16/22,10:31:28)
+
+							(User	Administrator)
+
+							(Path	ku_lib.adi_adclk914)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	ADI_ADCLK914
+
+							(PackType	ADI_ADCLK914)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001ed80438)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.6-p001 (v16-6-112A))
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	000000001c850382)
+
+)
+

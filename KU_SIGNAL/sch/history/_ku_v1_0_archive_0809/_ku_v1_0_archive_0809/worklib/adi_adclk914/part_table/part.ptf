@@ -1,0 +1,15 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ADI_ADCLK914'
+
+
+{========================================================================================}
+:PART_NUMBER(OPT) | JEDEC_TYPE(OPT) | APP_NAME(OPT) | COMPANY(OPT) = DESIGN | CHECK | MODIFY | DATE         | L_W_H              | T_OPERATING ;
+{========================================================================================}
+'********'        | 'adi_lfcsp_cp_16_22_3x3'     | 'ADCLK914BCPZ' | 'adi'(!) = 'kita'  | '**'  | '**'   | '2022-06-16' | '3.0mm_3.0mm_0.8mm'|'-40C - 85C'
+
+
+
+END_PART
+END.
+

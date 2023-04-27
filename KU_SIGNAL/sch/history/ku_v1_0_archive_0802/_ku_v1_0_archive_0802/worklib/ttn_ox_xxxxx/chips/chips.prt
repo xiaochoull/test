@@ -1,0 +1,28 @@
+FILE_TYPE=LIBRARY_PARTS;
+primitive 'OX_XXXXX';
+  pin
+    'VDD':
+      PIN_NUMBER='(4)';
+      PINUSE='POWER';
+    'OUTPUT':
+      PIN_NUMBER='(3)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'GND':
+      PIN_NUMBER='(2)';
+      PINUSE='GROUND';
+    'NC/3_STATE':
+      PIN_NUMBER='(1)';
+      OUTPUT_TYPE='(TS,TS)';
+      BIDIRECTIONAL='TRUE';
+      INPUT_LOAD='(-0.01,0.01)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+  end_pin;
+  body
+    PART_NAME='OX_XXXXX';
+    BODY_NAME='TTN_OX_XXXXX';
+    PHYS_DES_PREFIX='GJ';
+    CLASS='IC';
+  end_body;
+end_primitive;
+
+END.

@@ -1,0 +1,15 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ADI_LTM4638'
+
+
+{========================================================================================}
+:PART_NUMBER(OPT) | JEDEC_TYPE(OPT) | APP_NAME(OPT) | COMPANY(OPT) = DESIGN | CHECK | MODIFY | DATE         | L_W_H              | T_OPERATING ;
+{========================================================================================}
+'********'        | 'adi_ltm4638'   | 'LTM4638I' | 'adi'(!) = 'kita'  | '**'  | '**'   | '2022-07-04' | '6.25mm_6.25mm_5mm'|'-40C - 125C'
+
+
+
+END_PART
+END.
+

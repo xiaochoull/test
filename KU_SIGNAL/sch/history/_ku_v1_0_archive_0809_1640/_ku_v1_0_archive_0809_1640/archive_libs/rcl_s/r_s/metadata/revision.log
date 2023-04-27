@@ -1,0 +1,9 @@
+
+	(Comment
+		(Time 05/19/10,17:00:50)
+		(User licheng)
+		(MsgId ECO_213)
+		(Text "PTF file r.ptf renamed to r_s.ptf")
+		(Param1 r.ptf)
+		(Param2 r_s.ptf)
+	)

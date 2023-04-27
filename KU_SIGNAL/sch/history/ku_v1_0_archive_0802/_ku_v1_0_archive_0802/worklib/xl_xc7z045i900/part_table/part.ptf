@@ -1,0 +1,13 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'XL_XC7Z045I900'
+{========================================================================================}
+:PART_NUMBER(OPT)   | JEDEC_TYPE(OPT)   | APP_NAME(OPT)      | COMPANY(OPT)   | VALUE(OPT)         = DESIGN         | CHECK | MODIFY | COST | STATE | DATE        | L_W_H            ;
+{========================================================================================}
+ '**'               | 'XIL_FFG900_S'    | 'XC7Z045-2FFG900I' | '**'           | 'XC7Z045-2FFG900I'(!) = 'CHENYANGYANG' | '**'  | '**'   | '**' | '1'   | '2018-5-10' | '31mm_31mm_**mm'
+ '**'               | 'XIL_FFG900_S'    | 'XC7Z100-2FFG900I' | '**'           | 'XC7Z100-2FFG900I'(!) = 'CHENYANGYANG' | '**'  | '**'   | '**' | '1'   | '2018-5-10' | '31mm_31mm_**mm'
+ '**'               | 'XIL_FFG900_S'    | 'XC7Z100-L2FFG900I' | '**'           | 'XC7Z100-L2FFG900I'(!) = 'CHENYANGYANG' | '**'  | '**'   | '**' | '1'   | '2018-5-10' | '31mm_31mm_**mm'
+
+END_PART
+END.
+

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ADI_LTC2601'
+{========================================================================================}
+:'PART_NUMBER'(OPT)    |'JEDEC_TYPE'(OPT)    |'APP_NAME'(OPT)    |'COMPANY'(OPT)    |'VALUE'(OPT)       = 'DESIGN'    |'CHECK'    |'MODIFY'    |'COST'    |'STATE'    |'DATE'          |'L_W_H'                ;
+{========================================================================================}
+ '********'            |'ADI_DFN_10_S'       |'LTC2601IDD#TRPBF'      |'ADI'             |'LTC2601IDD#TRPBF' (!)  = 'cwx'    |'**'     |'**'      |'**'    |'1'      |'2021-12-31'  |'3.0mm_3.0mm_0.75mm'  
+
+END_PART
+END.
+

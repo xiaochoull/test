@@ -1,0 +1,27 @@
+FILE_TYPE=LIBRARY_PARTS;
+primitive 'R';
+  pin
+    'B0':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+      PIN_GROUP='1';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+    'A0':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+      PIN_GROUP='1';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    PART_NAME='R';
+    BODY_NAME='R';
+    PHYS_DES_PREFIX='R';
+    CLASS='DISCRETE';
+  end_body;
+end_primitive;
+
+END.

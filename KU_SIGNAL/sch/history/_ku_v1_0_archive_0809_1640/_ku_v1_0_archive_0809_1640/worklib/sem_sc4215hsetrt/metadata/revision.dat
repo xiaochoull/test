@@ -1,0 +1,176 @@
+(Cell	sem_sc4215hsetrt
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	1.0)
+
+		(ModificationStatus	Major)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	08/04/09,13:36:29)
+
+			(User	chenyanqing)
+
+			(Path	test_lib.sem_sc4215hsetrt)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	08/04/09,11:11:42)
+
+			(User	chenyanqing)
+
+			(Path	test_lib.sem_sc4215a)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Checksum	2db809a0)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	1.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/04/09,13:36:29)
+
+							(User	chenyanqing)
+
+							(Path	test_lib.sem_sc4215hsetrt)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	ef68018f)
+
+		)
+
+		(View	Chips
+
+			(Checksum	bfcf8bf8)
+
+			(Primitives	1
+
+				(Primitive	SC4215HSETRT
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	1.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/04/09,13:36:29)
+
+							(User	chenyanqing)
+
+							(Path	test_lib.sem_sc4215hsetrt)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	SC4215HSETRT
+
+							(PackType	SC4215HSETRT)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	bec501fc)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-p003)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	0e930281)
+
+)
+

@@ -1,0 +1,93 @@
+#ISCELL
+  standard sfdk_page1_a3 *
+  *
+#ISCELL
+  standard gnd *
+  page17_i1
+#CELL
+  rcl c *
+  page17_i10
+#CELL
+  rcl c *
+  page17_i11
+#CELL
+  _ku_v1_0 xilinx_xcku115_2flva1517i *
+  page17_i12
+#ISCELL
+  standard gnd *
+  page17_i13
+#CELL
+  rcl_s c_s *
+  page17_i14
+#ISCELL
+  standard vcc *
+  page17_i15
+#CELL
+  rcl c *
+  page17_i16
+#CELL
+  rcl c *
+  page17_i17
+#CELL
+  rcl c *
+  page17_i18
+#CELL
+  rcl c *
+  page17_i19
+#CELL
+  rcl_s c_s *
+  page17_i2
+#CELL
+  rcl c *
+  page17_i20
+#CELL
+  rcl c *
+  page17_i21
+#CELL
+  rcl c *
+  page17_i22
+#CELL
+  rcl c *
+  page17_i23
+#CELL
+  _ku_v1_0 xilinx_xcku115_2flva1517i *
+  page17_i24
+#CELL
+  rcl r *
+  page17_i25
+#CELL
+  rcl c *
+  page17_i26
+#CELL
+  rcl c *
+  page17_i27
+#CELL
+  rcl c *
+  page17_i3
+#CELL
+  rcl c *
+  page17_i30
+#CELL
+  rcl c *
+  page17_i31
+#CELL
+  rcl r *
+  page17_i32
+#CELL
+  rcl c *
+  page17_i4
+#CELL
+  rcl c *
+  page17_i5
+#CELL
+  rcl c *
+  page17_i6
+#CELL
+  rcl c *
+  page17_i7
+#ISCELL
+  standard vcc *
+  page17_i8
+#CELL
+  rcl c *
+  page17_i9

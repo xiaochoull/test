@@ -1,0 +1,156 @@
+(Cell	ti_tps51200drc
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	1.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	01/09/12,17:30:59)
+
+			(User	licheng)
+
+			(Path	check_lib.ti_tps51200drc)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Checksum	dafd57e1)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	1.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/09/12,17:30:59)
+
+							(User	licheng)
+
+							(Path	check_lib.ti_tps51200drc)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	fdf10310)
+
+		)
+
+		(View	Chips
+
+			(Checksum	635f96e5)
+
+			(Primitives	1
+
+				(Primitive	TPS51200DRC
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	1.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/09/12,17:30:59)
+
+							(User	licheng)
+
+							(Path	check_lib.ti_tps51200drc)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	TPS51200DRC
+
+							(PackType	TPS51200DRC)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	0fbc0241)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-p003)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	ef49010f)
+
+)
+

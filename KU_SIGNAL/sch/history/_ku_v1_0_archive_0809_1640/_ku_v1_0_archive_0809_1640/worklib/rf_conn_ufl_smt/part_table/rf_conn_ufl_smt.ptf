@@ -1,0 +1,14 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'RF_CONN_UFL_SMT'
+
+{========================================================================================}
+:PART_NUMBER(OPT)   | JEDEC_TYPE(OPT)         | APP_NAME(OPT)     | COMPANY(OPT)   | VALUE(OPT)        = DESIGN        | CHECK | MODIFY | COST | STATE | DATE         | L_W_T                | TEMPERATURERANGE ;
+{========================================================================================}
+ '55990001'         | 'RF_CONN_3' | 'RF_CONN_UFL_SMT' | '*****'    | 'RF_CONN_UFL_SMT'(!) = 'caoweixian' | '**'  | '**'   | '**' | '1'   | '2015-04-22' | '3.1mm_3mm_1.25mm' | '-40c to +90c' 
+
+END_PART
+
+END.
+
+

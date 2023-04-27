@@ -1,0 +1,31 @@
+FILE_TYPE=LIBRARY_PARTS;
+primitive 'SC431CSKQTRT';
+  pin
+    'REFERENCE':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+    'CATHODE':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+    'ANODE':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    PART_NAME='SC431CSKQTRT';
+    BODY_NAME='SEM_SC431CSKQTRT';
+    PHYS_DES_PREFIX='V';
+    CLASS='DISCRETE';
+  end_body;
+end_primitive;
+
+END.

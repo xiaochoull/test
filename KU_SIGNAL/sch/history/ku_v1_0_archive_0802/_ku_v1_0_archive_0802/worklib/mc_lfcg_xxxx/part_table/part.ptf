@@ -1,0 +1,29 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MC_LFCG_XXXX'
+
+
+{========================================================================================}
+
+:APP_NAME(OPT)   | JEDEC_TYPE(OPT)   | PART_NUMBER(OPT)   | COMPANY(OPT)    | FILTER_TYPE(OPT)   | PASS_FREQ(OPT)   = DESIGN | CHECK  | DATE         | T_OPERATING  | L_W_H                 ;
+{========================================================================================}
+
+ 'LFCG-575+'      | 'MC_GE0805C_2_S'  | '********'       | 'mini-circuits' | 'LPF'              | 'DC-575MHz'(!)   = 'xiao' | 'kita' | '2021-03-15' | '-40C - 85C' | '2.0mm_1.25mm_0.95mm'
+
+ 'LFCG-1400+'     | 'MC_GE0805C_2_S'  | '********'       | 'mini-circuits' | 'LPF'              | 'DC-1400MHz'(!)  = 'xiao' | 'kita' | '2021-03-15' | '-40C - 85C' | '2.0mm_1.25mm_0.95mm'
+
+ 'LFCG-1800+'     | 'MC_GE0805C_2_S'  | '********'       | 'mini-circuits' | 'LPF'              | 'DC-1800MHz'(!)  = 'xiao' | 'kita' | '2021-03-15' | '-40C - 85C' | '2.0mm_1.25mm_0.95mm'
+
+ 'LFCG-2250+'     | 'MC_GE0805C_2_S'  | '********'       | 'mini-circuits' | 'LPF'              | 'DC-2250MHz'(!)  = 'xiao' | 'kita' | '2021-03-15' | '-40C - 85C' | '2.0mm_1.25mm_0.95mm'
+
+ 'LFCG-3800+'     | 'MC_GE0805C_2_S'  | '********'       | 'mini-circuits' | 'LPF'              | 'DC-3900MHz'(!)  = 'xiao' | 'kita' | '2021-03-15' | '-40C - 85C' | '2.0mm_1.25mm_0.95mm'
+
+
+ 'LFCG-900+'      | 'MC_GE0805C_2_S'  | '********'       | 'mini-circuits' | 'LPF'              | 'DC-850MHz'(!)   = 'kita' | 'kita' | '2021-11-02' | '-40C - 85C' | '2.0mm_1.25mm_0.95mm'
+ 'LFCG-1700+'     | 'MC_GE0805C_2_S'  | '********'       | 'mini-circuits' | 'LPF'              | 'DC-1700MHz'(!)  = 'kita' | 'kita' | '2022-05-23' | '-40C - 85C' | '2.0mm_1.25mm_0.95mm'
+
+
+END_PART
+
+END.
+

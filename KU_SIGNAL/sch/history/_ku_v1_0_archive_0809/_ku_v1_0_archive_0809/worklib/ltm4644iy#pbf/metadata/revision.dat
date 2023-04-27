@@ -1,0 +1,196 @@
+(Cell	ltm4644iy#pbf
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	1.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	10/27/15,13:43:06)
+
+			(User	Administrator)
+
+			(Path	123_lib.ltm4644iy#pbf)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(RevisionInfoBlock	
+
+				(Baselined	0)
+
+				(Revision	0.0.2)
+
+				(ModificationStatus	NULL)
+
+				(Status	)
+
+				(ErrorStatus	0)
+
+				(CreateInfo	
+
+					(Time	)
+
+					(User	)
+
+					(Path	)
+
+				)
+
+			)
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000044da07e6)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/27/15,13:43:15)
+
+							(User	Administrator)
+
+							(Path	123_lib.ltm4644iy#pbf)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c7e03b0)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000004a9fc822)
+
+			(Primitives	1
+
+				(Primitive	LTM4644IY#PBF
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	1.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/27/15,13:43:08)
+
+							(User	Administrator)
+
+							(Path	123_lib.ltm4644iy#pbf)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	LTM4644IY#PBF
+
+							(PackType	LTM4644IY#PBF)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	li_ltm4644_s)
+
+							)
+
+							(AltSymbolsFootPrints	)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001cc703de)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.6-p001 (v16-6-112A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001cf803db)
+
+)
+

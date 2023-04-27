@@ -1,0 +1,13 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MUR_SF1186B_3'
+
+{========================================================================================}
+:'PART_NUMBER'(OPT)    |'JEDEC_TYPE'(OPT)    |'APP_NAME'(OPT)    |'COMPANY'(OPT)    |'VALUE'(OPT)        = 'DESIGN'          |'CHECK'    |'MODIFY'    |'COST'    |'STATE'    |'DATE'         |'L_W_H'             ;
+{========================================================================================}
+ '**'                  |'MUR_SAW_3X3_6P_S'   |'SF1186B-3'         |'murata'          |'SF1186B-3' (!)  = 'CHENYANGYANG'  |'**'     |'**'      |'**'    |'1'      |'2018-3-15'  |'3mm_3mm_1.38mm'  
+
+END_PART
+
+END.
+

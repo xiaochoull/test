@@ -1,0 +1,17 @@
+FILE_TYPE=MULTI_PHYS_TABLE;
+
+PART'DP_O11F_O11H'
+
+{========================================================================================}
+:'APP_NAME'(OPT) |'JEDEC_TYPE'(OPT) |'PART_NUMBER'(OPT) |'COMPANY'(OPT) |'VALUE'(OPT)='L_W_T' |'DESIGN' |'MODIFY' |'DATE' |'COST' |'OPERATIONTEMPERATURE' |'STORETEMPERATURE';
+{========================================================================================}
+'O11F-R315-10.00MHZ' |'DAPU_O11F_S' |'**' |'dapu' |'10MHz'(!)='14.4_9.5_6.5MM'    |'FYADAN' |'**' |'2018-11-22' |'**' |'-40cto+80c' |'-45cto+85c'
+'O11F-R311-30.72MHZ' |'DAPU_O11F_S' |'**' |'dapu' |'30.72MHz'(!)='14.4_9.5_6.5MM' |'FYADAN' |'**' |'2019-01-06' |'**' |'-40cto+80c' |'-45cto+85c'
+'O11H-R311-30.72MHZ' |'DAPU_O11H_S' |'**' |'dapu' |'30.72MHz'(!)='14.4_9.5_8.0MM' |'FYADAN' |'**' |'2019-01-06' |'**' |'-40cto+80c' |'-45cto+85c'
+'O11F-Q311-20.00MHZ' |'DAPU_O11F_S' |'**' |'dapu' |'20.00MHz'(!)='14.4_9.5_6.5MM' |'FYADAN' |'**' |'2020-10-13' |'**' |'-40cto+80c' |'-45cto+85c'
+
+
+END_PART
+
+END.
+

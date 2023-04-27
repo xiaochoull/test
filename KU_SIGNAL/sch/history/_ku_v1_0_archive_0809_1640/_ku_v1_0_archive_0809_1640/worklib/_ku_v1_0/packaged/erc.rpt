@@ -1,0 +1,96 @@
+Starting to read D:/HW/01_project/ku/sch/v1_0/_ku_v1_0_archive_0705/worklib/_ku_v1_0/packaged/pstchip.dat 
+   Finished reading D:/HW/01_project/ku/sch/v1_0/_ku_v1_0_archive_0705/worklib/_ku_v1_0/packaged/pstchip.dat (00:00:00.28)
+Starting to read D:/HW/01_project/ku/sch/v1_0/_ku_v1_0_archive_0705/worklib/_ku_v1_0/packaged/pstxprt.dat 
+   Finished reading D:/HW/01_project/ku/sch/v1_0/_ku_v1_0_archive_0705/worklib/_ku_v1_0/packaged/pstxprt.dat (00:00:00.08)
+Starting to read D:/HW/01_project/ku/sch/v1_0/_ku_v1_0_archive_0705/worklib/_ku_v1_0/packaged/pstxnet.dat 
+   Finished reading D:/HW/01_project/ku/sch/v1_0/_ku_v1_0_archive_0705/worklib/_ku_v1_0/packaged/pstxnet.dat (00:00:00.06)
+
+#1   WARNING(203) Single node net
+         Logical net name: @_KU_V1_0._KU_V1_0(SCH_1):EXT_REF_CLK_TO_6952
+         Pin name: A0 
+         Instance: @_KU_V1_0._KU_V1_0(SCH_1):PAGE24_I68@RCL.C(CHIPS) 
+         Drawing:  _KU_V1_0._KU_V1_0(SCH_1):PAGE24:PAGE_KU_V1_0(SCH_1):PAGE24 
+
+#2   WARNING(203) Single node net
+         Logical net name: @_KU_V1_0._KU_V1_0(SCH_1):RF_DAC_OUT
+         Pin name: B0 
+         Instance: @_KU_V1_0._KU_V1_0(SCH_1):PAGE29_I112@RCL.C(CHIPS) 
+         Drawing:  _KU_V1_0._KU_V1_0(SCH_1):PAGE29:PAGE_KU_V1_0(SCH_1):PAGE29 
+
+#3   WARNING(203) Single node net
+         Logical net name: @_KU_V1_0._KU_V1_0(SCH_1):RF_INPUT_1
+         Pin name: A0 
+         Instance: @_KU_V1_0._KU_V1_0(SCH_1):PAGE25_I6@RCL.C(CHIPS) 
+         Drawing:  _KU_V1_0._KU_V1_0(SCH_1):PAGE25:PAGE_KU_V1_0(SCH_1):PAGE25 
+
+#4   WARNING(203) Single node net
+         Logical net name: @_KU_V1_0._KU_V1_0(SCH_1):RF_INPUT_2
+         Pin name: A0 
+         Instance: @_KU_V1_0._KU_V1_0(SCH_1):PAGE25_I1@RCL.C(CHIPS) 
+         Drawing:  _KU_V1_0._KU_V1_0(SCH_1):PAGE25:PAGE_KU_V1_0(SCH_1):PAGE25 
+
+#5   WARNING(203) Single node net
+         Logical net name: @_KU_V1_0._KU_V1_0(SCH_1):RF_INPUT_3
+         Pin name: A0 
+         Instance: @_KU_V1_0._KU_V1_0(SCH_1):PAGE27_I5@RCL.C(CHIPS) 
+         Drawing:  _KU_V1_0._KU_V1_0(SCH_1):PAGE27:PAGE_KU_V1_0(SCH_1):PAGE27 
+
+#6   WARNING(203) Single node net
+         Logical net name: @_KU_V1_0._KU_V1_0(SCH_1):RF_INPUT_4
+         Pin name: A0 
+         Instance: @_KU_V1_0._KU_V1_0(SCH_1):PAGE27_I3@RCL.C(CHIPS) 
+         Drawing:  _KU_V1_0._KU_V1_0(SCH_1):PAGE27:PAGE_KU_V1_0(SCH_1):PAGE27 
+     
+
+ERC Summary:
+
+     Single Node Violations:            6
+     IO Check Violations:               0
+     Loading Check Violations:          0
+     
+
+Extended Error Descriptions:
+
+     Warning(203) Single node net
+          This warning is given for any net in the design that only has one
+          connection. This warning can be fixed by making sure each
+          node has two or more connections. This warning can be
+          suppressed by adding the NO_SINGLE_CHECK property to the net or
+          by turning off the check.
+     
+
+ERC-DX run on Jul 25 10:12:34 2022
+   DESIGN NAME : '_KU_V1_0'
+   PACKAGING ON 25-Jul-2022 AT 10:10:46
+
+   DIRECTORIES  <none>
+   LIBRARIES  '_ku_v1_0' 'standard' 'micron' 'rcl' 'rcl_s' 'ti' 'murata'
+   MASTER_LIBRARIES  <none>
+   MAX_ERRORS 500
+   ASSERT_CHECK OFF
+   PIN_DIRECTION_CHECK OFF
+   CONNECT_CHECK OFF
+   SINGLE_NODE_CHECK ON
+   IO_CHECK OFF
+   IO_CHECK_HIGH ON
+   IO_CHECK_LOW ON
+   LOAD_CHECK OFF
+   LOAD_CHECK_HIGH ON
+   LOAD_CHECK_LOW ON
+   ENABLE_TIMES OFF
+   VERBOSE_LOADING ON
+   VPUNKNOWNLOADING ON
+   EXTENDEDDESCRIPTIONS ON
+   OVERSIGHTS ON
+   SINGLE_NODE_NETS ON
+   SUPPRESS   20
+   WARNINGS ON
+   GLOBALS_SYNONYM_CHECK OFF
+
+ No error detected
+ No oversight detected
+  6 warnings detected
+
+cpu time      0:00:46
+elapsed time  0:00:00
+

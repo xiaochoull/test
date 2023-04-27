@@ -1,0 +1,9 @@
+
+	(Comment
+		(Time 03/24/17,11:17:13)
+		(User Administrator)
+		(MsgId ECO_213)
+		(Text "PTF file ttn_oc_xxxxx.ptf renamed to ttn_ox_xxxxx.ptf")
+		(Param1 ttn_oc_xxxxx.ptf)
+		(Param2 ttn_ox_xxxxx.ptf)
+	)

@@ -1,0 +1,303 @@
+#ISCELL
+  standard sfdk_page1_a3 *
+  *
+#ISCELL
+  standard vcc *
+  page10_i115
+#ISCELL
+  standard vcc *
+  page10_i120
+#CELL
+  _ku_v1_0 xl_xc7z045i900 *
+  page10_i122
+#CELL
+  murata mur_blm18 *
+  page10_i123
+#CELL
+  murata mur_blm18 *
+  page10_i124
+#CELL
+  murata mur_blm18 *
+  page10_i125
+#CELL
+  rcl_s c_s *
+  page10_i126
+#CELL
+  rcl_s c_s *
+  page10_i127
+#CELL
+  rcl c *
+  page10_i128
+#CELL
+  rcl c *
+  page10_i129
+#CELL
+  rcl c *
+  page10_i130
+#CELL
+  rcl c *
+  page10_i131
+#CELL
+  rcl c *
+  page10_i132
+#CELL
+  rcl c *
+  page10_i133
+#CELL
+  rcl c *
+  page10_i134
+#CELL
+  rcl c *
+  page10_i135
+#CELL
+  rcl c *
+  page10_i136
+#CELL
+  rcl c *
+  page10_i137
+#CELL
+  rcl c *
+  page10_i138
+#CELL
+  rcl c *
+  page10_i139
+#CELL
+  rcl c *
+  page10_i140
+#CELL
+  rcl c *
+  page10_i141
+#CELL
+  rcl c *
+  page10_i142
+#CELL
+  rcl c *
+  page10_i143
+#CELL
+  rcl c *
+  page10_i144
+#CELL
+  rcl c *
+  page10_i145
+#CELL
+  rcl c *
+  page10_i146
+#CELL
+  rcl c *
+  page10_i147
+#CELL
+  rcl_s c_s *
+  page10_i148
+#CELL
+  rcl_s c_s *
+  page10_i149
+#CELL
+  rcl c *
+  page10_i150
+#CELL
+  rcl c *
+  page10_i151
+#CELL
+  rcl c *
+  page10_i152
+#CELL
+  rcl c *
+  page10_i153
+#CELL
+  rcl c *
+  page10_i154
+#CELL
+  rcl c *
+  page10_i155
+#CELL
+  rcl c *
+  page10_i156
+#CELL
+  rcl c *
+  page10_i157
+#CELL
+  rcl c *
+  page10_i158
+#CELL
+  rcl c *
+  page10_i159
+#CELL
+  _ku_v1_0 xl_xc7z045i900 *
+  page10_i16
+#CELL
+  rcl c *
+  page10_i160
+#CELL
+  rcl c *
+  page10_i161
+#CELL
+  rcl c *
+  page10_i162
+#CELL
+  rcl c *
+  page10_i163
+#CELL
+  rcl c *
+  page10_i164
+#CELL
+  rcl c *
+  page10_i165
+#CELL
+  rcl c *
+  page10_i166
+#CELL
+  rcl c *
+  page10_i167
+#CELL
+  rcl c *
+  page10_i168
+#CELL
+  rcl c *
+  page10_i169
+#CELL
+  rcl c *
+  page10_i170
+#CELL
+  rcl c *
+  page10_i171
+#CELL
+  rcl c *
+  page10_i172
+#CELL
+  rcl c *
+  page10_i173
+#CELL
+  rcl c *
+  page10_i174
+#CELL
+  rcl c *
+  page10_i175
+#CELL
+  rcl c *
+  page10_i176
+#CELL
+  rcl c *
+  page10_i177
+#CELL
+  rcl c *
+  page10_i178
+#CELL
+  rcl c *
+  page10_i179
+#CELL
+  rcl c *
+  page10_i18
+#CELL
+  rcl c *
+  page10_i180
+#CELL
+  rcl c *
+  page10_i181
+#CELL
+  rcl c *
+  page10_i182
+#CELL
+  rcl c *
+  page10_i183
+#CELL
+  rcl c *
+  page10_i184
+#CELL
+  rcl c *
+  page10_i185
+#CELL
+  rcl c *
+  page10_i186
+#CELL
+  rcl c *
+  page10_i187
+#CELL
+  rcl c *
+  page10_i188
+#CELL
+  rcl c *
+  page10_i189
+#CELL
+  rcl c *
+  page10_i19
+#CELL
+  rcl c *
+  page10_i190
+#CELL
+  rcl c *
+  page10_i191
+#ISCELL
+  standard gnd *
+  page10_i192
+#ISCELL
+  standard gnd *
+  page10_i193
+#ISCELL
+  standard gnd *
+  page10_i194
+#CELL
+  rcl c *
+  page10_i195
+#CELL
+  rcl c *
+  page10_i196
+#CELL
+  rcl c *
+  page10_i197
+#CELL
+  rcl c *
+  page10_i198
+#CELL
+  rcl c *
+  page10_i199
+#CELL
+  _ku_v1_0 xl_xc7z045i900 *
+  page10_i20
+#CELL
+  rcl c *
+  page10_i200
+#ISCELL
+  standard vcc *
+  page10_i201
+#CELL
+  rcl c *
+  page10_i204
+#CELL
+  rcl c *
+  page10_i205
+#CELL
+  rcl r *
+  page10_i27
+#ISCELL
+  standard vcc *
+  page10_i28
+#CELL
+  rcl c *
+  page10_i3
+#CELL
+  rcl c *
+  page10_i4
+#ISCELL
+  standard vcc *
+  page10_i47
+#ISCELL
+  standard vcc *
+  page10_i50
+#ISCELL
+  standard vcc *
+  page10_i58
+#ISCELL
+  standard vcc *
+  page10_i59
+#CELL
+  _ku_v1_0 xl_xc7z045i900 *
+  page10_i60
+#CELL
+  _ku_v1_0 xl_xc7z045i900 *
+  page10_i67
+#ISCELL
+  standard vcc *
+  page10_i81
+#ISCELL
+  standard vcc *
+  page10_i83

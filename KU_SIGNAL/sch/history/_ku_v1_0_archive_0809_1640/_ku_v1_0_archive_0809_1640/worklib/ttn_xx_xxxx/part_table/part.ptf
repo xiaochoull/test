@@ -1,0 +1,22 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'XX_XXXX'
+
+{========================================================================================}
+:PART_NUMBER(OPT)   | JEDEC_TYPE(OPT)   | APP_NAME(OPT)   | COMPANY(OPT)   | VALUE(OPT)     = TA            | SPEED_OPTION | DESIGN       | CHECK        | MODIFY | COST | STATE | DATE         | L_W_T              | PACKAGE_TYPE | MODEL_NUMBER            ;
+{========================================================================================}
+ '29020004'               | 'TTN_OC32_25_07_S'   | 'XXFGHLNANF_24.000000'  | 'TAI-TIEN'      | 'XXFGHLNANF_24.000000'(!) = '-40C to 85C' | '**'         | 'caoweixian' | 'caoweixian' | '**'   | '**' | '1'   | '2014-11-04' | '3.2MM_2.5MM_0.7MM' | 'Pb_free'    | '**'
+ '29020005'               | 'TTN_OC32_25_07_S'   | 'XXFGHLNANF_16.000000'  | 'TAI-TIEN'      | 'XXFGHLNANF_16.000000'(!) = '-40C to 85C' | '**'         | 'caoweixian' | 'caoweixian' | '**'   | '**' | '1'   | '2014-11-04' | '3.2MM_2.5MM_0.7MM' | 'Pb_free'    | '**'
+ '29020006'               | 'TTN_OC32_25_07_S'   | 'XXFGHLNANF_25.000000'  | 'TAI-TIEN'      | 'XXFGHLNANF_25.000000'(!) = '-40C to 85C' | '**'         | 'caoweixian' | 'caoweixian' | '**'   | '**' | '1'   | '2014-11-04' | '3.2MM_2.5MM_0.7MM' | 'Pb_free'    | '**'
+ '29020007'               | 'TTN_OC32_25_07_S'   | 'XXFGHLNANF_30.000000'  | 'TAI-TIEN'      | 'XXFGHLNANF_30.000000'(!) = '-40C to 85C' | '**'         | 'hanshaobo' | 'hanshaobo' | '**'   | '**' | '1'   | '2018-02-27' | '3.2MM_2.5MM_0.7MM' | 'Pb_free'    | '**'
+ '29020013'               | 'TTN_OC32_25_07_S'   | 'XXFGHLNANF_37.400000'  | 'TAI-TIEN'      | 'XXFGHLNANF_30.000000'(!) = '-40C to 85C' | '**'         | 'chenyangynag' | '**' | '**'   | '**' | '1'   | '2018-7-12' | '3.2MM_2.5MM_0.7MM' | 'Pb_free'    | '**'
+
+ '**'               | 'TTN_OC32_25_07_S'   | 'XXFGHLNANF_19.200000'  | 'TAI-TIEN'      | 'XXFGHLNANF_19.200000'(!) = '-40C to 85C' | '**'         | 'chenyangynag' | '**' | '**'   | '**' | '1'   | '2018-7-12' | '3.2MM_2.5MM_0.7MM' | 'Pb_free'    | '**'
+
+END_PART
+
+END.
+
+
+
+

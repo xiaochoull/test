@@ -1,0 +1,773 @@
+pagename "A SIZE PAGE"
+version 1
+lowerleft (-3750, 0)
+upperright (0, 5000)
+xmark "1" -500
+xmark "2" -1500
+xmark "3" -2500
+xmark "4" -3425
+ymark "A" 950
+ymark "B" 2200
+ymark "C" 3350
+ymark "D" 4475
+pagename "B SIZE PAGE"
+version 1
+lowerleft (-8000, 0)
+upperright (0, 5000)
+xmark "1" -500
+xmark "2" -1500
+xmark "3" -2500
+xmark "4" -3500
+xmark "5" -4500
+xmark "6" -5500
+xmark "7" -6500
+xmark "8" -7500
+ymark "A" 1000
+ymark "B" 2200
+ymark "C" 3350
+ymark "D" 4500
+pagename "C SIZE PAGE"
+version 1
+lowerleft (-10650, 100)
+upperright (-75, 8175)
+xmark "1" -750
+xmark "2" -2000
+xmark "3" -3350
+xmark "4" -4700
+xmark "5" -6050
+xmark "6" -7400
+xmark "7" -8750
+xmark "8" -10100
+ymark "A" 675
+ymark "B" 2025
+ymark "C" 3375
+ymark "D" 4750
+ymark "E" 6075
+ymark "F" 7525
+pagename "CADENCE A SIZE PAGE"
+version 1
+lowerleft (-3750, 0)
+upperright (0, 5000)
+xmark "1" -500
+xmark "2" -1500
+xmark "3" -2500
+xmark "4" -3425
+ymark "A" 950
+ymark "B" 2200
+ymark "C" 3350
+ymark "D" 4475
+pagename "CADENCE A SIZE PAGE"
+version 2
+lowerleft (-3750, 0)
+upperright (0, 5000)
+xmark "1" -500
+xmark "2" -1500
+xmark "3" -2500
+xmark "4" -3425
+ymark "A" 950
+ymark "B" 2200
+ymark "C" 3350
+ymark "D" 4475
+pagename "CADENCE B SIZE PAGE"
+version 1
+lowerleft (-8000, 0)
+upperright (0, 5000)
+xmark "1" -500
+xmark "2" -1500
+xmark "3" -2500
+xmark "4" -3500
+xmark "5" -4500
+xmark "6" -5500
+xmark "7" -6500
+xmark "8" -7500
+ymark "A" 1000
+ymark "B" 2200
+ymark "C" 3350
+ymark "D" 4500
+pagename "CADENCE B SIZE PAGE"
+version 2
+lowerleft (-8000, 0)
+upperright (0, 5000)
+xmark "1" -500
+xmark "2" -1500
+xmark "3" -2500
+xmark "4" -3500
+xmark "5" -4500
+xmark "6" -5500
+xmark "7" -6500
+xmark "8" -7500
+ymark "A" 1000
+ymark "B" 2200
+ymark "C" 3350
+ymark "D" 4500
+pagename "CADENCE B SIZE PAGE"
+version 3
+lowerleft (-8000, 0)
+upperright (0, 5000)
+xmark "1" -500
+xmark "2" -1500
+xmark "3" -2500
+xmark "4" -3500
+xmark "5" -4500
+xmark "6" -5500
+xmark "7" -6500
+xmark "8" -7500
+ymark "A" 1000
+ymark "B" 2200
+ymark "C" 3350
+ymark "D" 4500
+pagename "D SIZE PAGE"
+version 1
+lowerleft (-14625, 250)
+upperright (1875, 10750)
+xmark "1" 950
+xmark "2" -1075
+xmark "3" -3200
+xmark "4" -5300
+xmark "5" -7450
+xmark "6" -9575
+xmark "7" -11700
+xmark "8" -13725
+ymark "A" 1625
+ymark "B" 4200
+ymark "C" 6825
+ymark "D" 9475
+pagename "E SIZE PAGE"
+version 1
+lowerleft (-10700, -8200)
+upperright (10750, 7750)
+xmark "1" 9600
+xmark "2" 6850
+xmark "3" 4150
+xmark "4" 1400
+xmark "5" -1350
+xmark "6" -4125
+xmark "7" -6875
+xmark "8" -9650
+ymark "A" -7700
+ymark "B" -5500
+ymark "C" -3450
+ymark "D" -1300
+ymark "E" 800
+ymark "F" 2950
+ymark "G" 5100
+ymark "H" 7150
+pagename "F SIZE PAGE"
+version 1
+lowerleft (-9725, -6725)
+upperright (9750, 6725)
+xmark "1" 8825
+xmark "2" 6250
+xmark "3" 3750
+xmark "4" 1250
+xmark "5" -1300
+xmark "6" -3750
+xmark "7" -6200
+xmark "8" -8800
+ymark "A" -5800
+ymark "B" -3400
+ymark "C" -1050
+ymark "D" 1250
+ymark "E" 3575
+ymark "F" 5800
+pagename "VALID A SIZE PAGE"
+version 1
+lowerleft (-3750, 0)
+upperright (0, 5000)
+xmark "1" -500
+xmark "2" -1500
+xmark "3" -2500
+xmark "4" -3425
+ymark "A" 950
+ymark "B" 2200
+ymark "C" 3350
+ymark "D" 4475
+pagename "VALID A SIZE PAGE"
+version 2
+lowerleft (-3750, 0)
+upperright (0, 5000)
+xmark "1" -500
+xmark "2" -1500
+xmark "3" -2500
+xmark "4" -3425
+ymark "A" 950
+ymark "B" 2200
+ymark "C" 3350
+ymark "D" 4475
+pagename "VALID B SIZE PAGE"
+version 1
+lowerleft (-8000, 0)
+upperright (0, 5000)
+xmark "1" -500
+xmark "2" -1500
+xmark "3" -2500
+xmark "4" -3500
+xmark "5" -4500
+xmark "6" -5500
+xmark "7" -6500
+xmark "8" -7500
+ymark "A" 1000
+ymark "B" 2200
+ymark "C" 3350
+ymark "D" 4500
+pagename "VALID B SIZE PAGE"
+version 2
+lowerleft (-8000, 0)
+upperright (0, 5000)
+xmark "1" -500
+xmark "2" -1500
+xmark "3" -2500
+xmark "4" -3500
+xmark "5" -4500
+xmark "6" -5500
+xmark "7" -6500
+xmark "8" -7500
+ymark "A" 1000
+ymark "B" 2200
+ymark "C" 3350
+ymark "D" 4500
+pagename "VALID B SIZE PAGE"
+version 3
+lowerleft (-8000, 0)
+upperright (0, 5000)
+xmark "1" -500
+xmark "2" -1500
+xmark "3" -2500
+xmark "4" -3500
+xmark "5" -4500
+xmark "6" -5500
+xmark "7" -6500
+xmark "8" -7500
+ymark "A" 1000
+ymark "B" 2200
+ymark "C" 3350
+ymark "D" 4500
+pagename "COVER1_BJ"
+version 1
+lowerleft (-7325, 0)
+upperright (0, 5325)
+xmark "1" -650
+xmark "2" -1325
+xmark "3" -1975
+xmark "4" -2625
+xmark "5" -3300
+xmark "6" -3950
+xmark "7" -4625
+xmark "8" -5275
+xmark "9" -5925
+xmark "10" -6600
+xmark "11" -7250
+xmark "12" -7325
+ymark "A" 785
+ymark "B" 1565
+ymark "C" 2345
+ymark "D" 3125
+ymark "E" 3905
+ymark "F" 4685
+ymark "G" 5325
+pagename "COVER2_BJ"
+version 1
+lowerleft (-7325, 0)
+upperright (0, 5325)
+xmark "1" -650
+xmark "2" -1325
+xmark "3" -1975
+xmark "4" -2625
+xmark "5" -3300
+xmark "6" -3950
+xmark "7" -4625
+xmark "8" -5275
+xmark "9" -5925
+xmark "10" -6600
+xmark "11" -7250
+xmark "12" -7325
+ymark "A" 785
+ymark "B" 1565
+ymark "C" 2345
+ymark "D" 3125
+ymark "E" 3905
+ymark "F" 4685
+ymark "G" 5325
+pagename "COVER1_SH"
+version 1
+lowerleft (-7325, 0)
+upperright (0, 5325)
+xmark "1" -650
+xmark "2" -1325
+xmark "3" -1975
+xmark "4" -2625
+xmark "5" -3300
+xmark "6" -3950
+xmark "7" -4625
+xmark "8" -5275
+xmark "9" -5925
+xmark "10" -6600
+xmark "11" -7250
+xmark "12" -7325
+ymark "A" 785
+ymark "B" 1565
+ymark "C" 2345
+ymark "D" 3125
+ymark "E" 3905
+ymark "F" 4685
+ymark "G" 5325
+pagename "COVER2_SH"
+version 1
+lowerleft (-7325, 0)
+upperright (0, 5325)
+xmark "1" -650
+xmark "2" -1325
+xmark "3" -1975
+xmark "4" -2625
+xmark "5" -3300
+xmark "6" -3950
+xmark "7" -4625
+xmark "8" -5275
+xmark "9" -5925
+xmark "10" -6600
+xmark "11" -7250
+xmark "12" -7325
+ymark "A" 785
+ymark "B" 1565
+ymark "C" 2345
+ymark "D" 3125
+ymark "E" 3905
+ymark "F" 4685
+ymark "G" 5325
+pagename "COVER1_XA"
+version 1
+lowerleft (-7325, 0)
+upperright (0, 5325)
+xmark "1" -650
+xmark "2" -1325
+xmark "3" -1975
+xmark "4" -2625
+xmark "5" -3300
+xmark "6" -3950
+xmark "7" -4625
+xmark "8" -5275
+xmark "9" -5925
+xmark "10" -6600
+xmark "11" -7250
+xmark "12" -7325
+ymark "A" 785
+ymark "B" 1565
+ymark "C" 2345
+ymark "D" 3125
+ymark "E" 3905
+ymark "F" 4685
+ymark "G" 5325
+pagename "COVER2_XA"
+version 1
+lowerleft (-7325, 0)
+upperright (0, 5325)
+xmark "1" -650
+xmark "2" -1325
+xmark "3" -1975
+xmark "4" -2625
+xmark "5" -3300
+xmark "6" -3950
+xmark "7" -4625
+xmark "8" -5275
+xmark "9" -5925
+xmark "10" -6600
+xmark "11" -7250
+xmark "12" -7325
+ymark "A" 785
+ymark "B" 1565
+ymark "C" 2345
+ymark "D" 3125
+ymark "E" 3905
+ymark "F" 4685
+ymark "G" 5325
+pagename "COVER1_A2_SH"
+version 1
+lowerleft (-10300, 0)
+upperright (0, 7800)
+xmark "1" -910
+xmark "2" -1820
+xmark "3" -2730
+xmark "4" -3640
+xmark "5" -4550
+xmark "6" -5460
+xmark "7" -6370
+xmark "8" -7280
+xmark "9" -8190
+xmark "10" -9100
+xmark "11" -10010
+xmark "12" -10300
+ymark "A" 1135
+ymark "B" 2270
+ymark "C" 3405
+ymark "D" 4540
+ymark "E" 5675
+ymark "F" 6810
+ymark "G" 7800
+pagename "COVER1_A2_BJ"
+version 1
+lowerleft (-10300, 0)
+upperright (0, 7800)
+xmark "1" -910
+xmark "2" -1820
+xmark "3" -2730
+xmark "4" -3640
+xmark "5" -4550
+xmark "6" -5460
+xmark "7" -6370
+xmark "8" -7280
+xmark "9" -8190
+xmark "10" -9100
+xmark "11" -10010
+xmark "12" -10300
+ymark "A" 1135
+ymark "B" 2270
+ymark "C" 3405
+ymark "D" 4540
+ymark "E" 5675
+ymark "F" 6810
+ymark "G" 7800
+pagename "COVER1_A2_XA"
+version 1
+lowerleft (-10300, 0)
+upperright (0, 7800)
+xmark "1" -910
+xmark "2" -1820
+xmark "3" -2730
+xmark "4" -3640
+xmark "5" -4550
+xmark "6" -5460
+xmark "7" -6370
+xmark "8" -7280
+xmark "9" -8190
+xmark "10" -9100
+xmark "11" -10010
+xmark "12" -10300
+ymark "A" 1135
+ymark "B" 2270
+ymark "C" 3405
+ymark "D" 4540
+ymark "E" 5675
+ymark "F" 6810
+ymark "G" 7800
+pagename "COVER2_A2_SH"
+version 1
+lowerleft (-10300, 0)
+upperright (0, 7800)
+xmark "1" -910
+xmark "2" -1820
+xmark "3" -2730
+xmark "4" -3640
+xmark "5" -4550
+xmark "6" -5460
+xmark "7" -6370
+xmark "8" -7280
+xmark "9" -8190
+xmark "10" -9100
+xmark "11" -10010
+xmark "12" -10300
+ymark "A" 1135
+ymark "B" 2270
+ymark "C" 3405
+ymark "D" 4540
+ymark "E" 5675
+ymark "F" 6810
+ymark "G" 7800
+pagename "COVER2_A2_BJ"
+version 1
+lowerleft (-10300, 0)
+upperright (0, 7800)
+xmark "1" -910
+xmark "2" -1820
+xmark "3" -2730
+xmark "4" -3640
+xmark "5" -4550
+xmark "6" -5460
+xmark "7" -6370
+xmark "8" -7280
+xmark "9" -8190
+xmark "10" -9100
+xmark "11" -10010
+xmark "12" -10300
+ymark "A" 1135
+ymark "B" 2270
+ymark "C" 3405
+ymark "D" 4540
+ymark "E" 5675
+ymark "F" 6810
+ymark "G" 7800
+pagename "COVER2_A2_XA"
+version 1
+lowerleft (-10300, 0)
+upperright (0, 7800)
+xmark "1" -910
+xmark "2" -1820
+xmark "3" -2730
+xmark "4" -3640
+xmark "5" -4550
+xmark "6" -5460
+xmark "7" -6370
+xmark "8" -7280
+xmark "9" -8190
+xmark "10" -9100
+xmark "11" -10010
+xmark "12" -10300
+ymark "A" 1135
+ymark "B" 2270
+ymark "C" 3405
+ymark "D" 4540
+ymark "E" 5675
+ymark "F" 6810
+ymark "G" 7800
+pagename "COVER2_A2_NEW"
+version 1
+lowerleft (-10300, 0)
+upperright (0, 7800)
+xmark "1" -910
+xmark "2" -1820
+xmark "3" -2730
+xmark "4" -3640
+xmark "5" -4550
+xmark "6" -5460
+xmark "7" -6370
+xmark "8" -7280
+xmark "9" -8190
+xmark "10" -9100
+xmark "11" -10010
+xmark "12" -10300
+ymark "A" 1135
+ymark "B" 2270
+ymark "C" 3405
+ymark "D" 4540
+ymark "E" 5675
+ymark "F" 6810
+ymark "G" 7800
+pagename "COVER2_A2_DTLC_STAND"
+version 1
+lowerleft (-10300, 0)
+upperright (0, 7800)
+xmark "1" -910
+xmark "2" -1820
+xmark "3" -2730
+xmark "4" -3640
+xmark "5" -4550
+xmark "6" -5460
+xmark "7" -6370
+xmark "8" -7280
+xmark "9" -8190
+xmark "10" -9100
+xmark "11" -10010
+xmark "12" -10300
+ymark "A" 1135
+ymark "B" 2270
+ymark "C" 3405
+ymark "D" 4540
+ymark "E" 5675
+ymark "F" 6810
+ymark "G" 7800
+pagename "COVER1_A2_NEW"
+version 1
+lowerleft (-10300, 0)
+upperright (0, 7800)
+xmark "1" -910
+xmark "2" -1820
+xmark "3" -2730
+xmark "4" -3640
+xmark "5" -4550
+xmark "6" -5460
+xmark "7" -6370
+xmark "8" -7280
+xmark "9" -8190
+xmark "10" -9100
+xmark "11" -10010
+xmark "12" -10300
+ymark "A" 1135
+ymark "B" 2270
+ymark "C" 3405
+ymark "D" 4540
+ymark "E" 5675
+ymark "F" 6810
+ymark "G" 7800
+pagename "COVER1_A2_DTLC_STAND"
+version 1
+lowerleft (-10300, 0)
+upperright (0, 7800)
+xmark "1" -910
+xmark "2" -1820
+xmark "3" -2730
+xmark "4" -3640
+xmark "5" -4550
+xmark "6" -5460
+xmark "7" -6370
+xmark "8" -7280
+xmark "9" -8190
+xmark "10" -9100
+xmark "11" -10010
+xmark "12" -10300
+ymark "A" 1135
+ymark "B" 2270
+ymark "C" 3405
+ymark "D" 4540
+ymark "E" 5675
+ymark "F" 6810
+ymark "G" 7800
+pagename "COVER1_BJ_NEW"
+version 1
+lowerleft (-7325, 0)
+upperright (0, 5325)
+xmark "1" -650
+xmark "2" -1325
+xmark "3" -1975
+xmark "4" -2625
+xmark "5" -3300
+xmark "6" -3950
+xmark "7" -4625
+xmark "8" -5275
+xmark "9" -5925
+xmark "10" -6600
+xmark "11" -7250
+xmark "12" -7325
+ymark "A" 785
+ymark "B" 1565
+ymark "C" 2345
+ymark "D" 3125
+ymark "E" 3905
+ymark "F" 4685
+ymark "G" 5325
+pagename "COVER2_BJ_NEW"
+version 1
+lowerleft (-7325, 0)
+upperright (0, 5325)
+xmark "1" -650
+xmark "2" -1325
+xmark "3" -1975
+xmark "4" -2625
+xmark "5" -3300
+xmark "6" -3950
+xmark "7" -4625
+xmark "8" -5275
+xmark "9" -5925
+xmark "10" -6600
+xmark "11" -7250
+xmark "12" -7325
+ymark "A" 785
+ymark "B" 1565
+ymark "C" 2345
+ymark "D" 3125
+ymark "E" 3905
+ymark "F" 4685
+ymark "G" 5325
+pagename "COVER1_DTLC_STAND"
+version 1
+lowerleft (-7325, 0)
+upperright (0, 5325)
+xmark "1" -650
+xmark "2" -1325
+xmark "3" -1975
+xmark "4" -2625
+xmark "5" -3300
+xmark "6" -3950
+xmark "7" -4625
+xmark "8" -5275
+xmark "9" -5925
+xmark "10" -6600
+xmark "11" -7250
+xmark "12" -7325
+ymark "A" 785
+ymark "B" 1565
+ymark "C" 2345
+ymark "D" 3125
+ymark "E" 3905
+ymark "F" 4685
+ymark "G" 5325
+pagename "COVER2_DTLC_STAND"
+version 1
+lowerleft (-7325, 0)
+upperright (0, 5325)
+xmark "1" -650
+xmark "2" -1325
+xmark "3" -1975
+xmark "4" -2625
+xmark "5" -3300
+xmark "6" -3950
+xmark "7" -4625
+xmark "8" -5275
+xmark "9" -5925
+xmark "10" -6600
+xmark "11" -7250
+xmark "12" -7325
+ymark "A" 785
+ymark "B" 1565
+ymark "C" 2345
+ymark "D" 3125
+ymark "E" 3905
+ymark "F" 4685
+ymark "G" 5325
+pagename "COVER1_SH_NEW"
+version 1
+lowerleft (-7325, 0)
+upperright (0, 5325)
+xmark "1" -650
+xmark "2" -1325
+xmark "3" -1975
+xmark "4" -2625
+xmark "5" -3300
+xmark "6" -3950
+xmark "7" -4625
+xmark "8" -5275
+xmark "9" -5925
+xmark "10" -6600
+xmark "11" -7250
+xmark "12" -7325
+ymark "A" 785
+ymark "B" 1565
+ymark "C" 2345
+ymark "D" 3125
+ymark "E" 3905
+ymark "F" 4685
+ymark "G" 5325
+pagename "COVER2_SH_NEW"
+version 1
+lowerleft (-7325, 0)
+upperright (0, 5325)
+xmark "1" -650
+xmark "2" -1325
+xmark "3" -1975
+xmark "4" -2625
+xmark "5" -3300
+xmark "6" -3950
+xmark "7" -4625
+xmark "8" -5275
+xmark "9" -5925
+xmark "10" -6600
+xmark "11" -7250
+xmark "12" -7325
+ymark "A" 785
+ymark "B" 1565
+ymark "C" 2345
+ymark "D" 3125
+ymark "E" 3905
+ymark "F" 4685
+ymark "G" 5325
+INFLAG "OFFPAGE" VERSION 1
+INFLAG "OFFPAGE" VERSION 4
+OUTFLAG "OFFPAGE" VERSION 2
+OUTFLAG "OFFPAGE" VERSION 5
+BIFLAG "OFFPAGE" VERSION 3
+BIFLAG "OFFPAGE" VERSION 6
+INFLAG "INPORT" VERSION 1
+OUTFLAG "OUTPORT" VERSION 1
+BIFLAG "IOPORT" VERSION 1
+INFLAG "FLAG" VERSION 1
+INFLAG "FLAG" VERSION 2
+INFLAG "FLAG" VERSION 3
+INFLAG "FLAG" VERSION 4
+OUTFLAG "FLAG" VERSION 5
+OUTFLAG "FLAG" VERSION 6
+OUTFLAG "FLAG" VERSION 7
+OUTFLAG "FLAG" VERSION 8
+BIFLAG "FLAG" VERSION 9
+BIFLAG "FLAG" VERSION 10
+BIFLAG "FLAG" VERSION 11
+BIFLAG "FLAG" VERSION 12
+BIFLAG "SPIN" VERSION 1
+

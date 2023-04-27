@@ -1,0 +1,13 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CSD16403Q5A'
+
+{========================================================================================}
+:PART_NUMBER(OPT)   | JEDEC_TYPE(OPT)   | APP_NAME(OPT)   | COMPANY(OPT)   | VALUE(OPT)    = DESIGN    | CHECK | MODIFY | COST | STATE | DATE        | L_W_T              ;
+{========================================================================================}
+ '40810201'         | 'TI_SON8_A_S'     | 'CSD16403Q5A'   | 'TI'           | 'CSD16403Q5A'(!) = 'LICHENG' | '**'  | '**'   | '**' | '1'   | '2009-7-24' | '5mm_6.10mm_1.1mm'
+
+END_PART
+
+END.
+

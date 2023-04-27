@@ -1,0 +1,72 @@
+#ISCELL
+  standard sfdk_page1_a3 *
+  *
+#ISCELL
+  standard gnd *
+  page31_i1
+#CELL
+  standard hole *
+  page31_i10
+#CELL
+  standard hole *
+  page31_i11
+#CELL
+  standard hole *
+  page31_i12
+#CELL
+  standard hole *
+  page31_i13
+#CELL
+  standard hole *
+  page31_i14
+#ISCELL
+  standard gnd *
+  page31_i15
+#ISCELL
+  standard gnd *
+  page31_i16
+#ISCELL
+  standard gnd *
+  page31_i17
+#CELL
+  _ku_v1_0 tyco_1410187_3 *
+  page31_i18
+#ISCELL
+  standard gnd *
+  page31_i19
+#CELL
+  _ku_v1_0 tyco_1_1469492_x *
+  page31_i2
+#ISCELL
+  standard gnd *
+  page31_i20
+#CELL
+  _ku_v1_0 tyco_1410187_3 *
+  page31_i21
+#ISCELL
+  standard gnd *
+  page31_i22
+#CELL
+  _ku_v1_0 tyco_1410189_3 *
+  page31_i23
+#ISCELL
+  standard gnd *
+  page31_i24
+#CELL
+  _ku_v1_0 tyco_1_1469492_x *
+  page31_i3
+#CELL
+  standard hole *
+  page31_i5
+#CELL
+  standard hole *
+  page31_i6
+#CELL
+  standard hole *
+  page31_i7
+#CELL
+  standard hole *
+  page31_i8
+#CELL
+  standard hole *
+  page31_i9

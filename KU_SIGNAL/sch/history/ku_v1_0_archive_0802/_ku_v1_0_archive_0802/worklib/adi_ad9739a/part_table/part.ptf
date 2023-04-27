@@ -1,0 +1,15 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ADI_AD9739A'
+
+
+{========================================================================================}
+:PART_NUMBER(OPT) | JEDEC_TYPE(OPT) | APP_NAME(OPT) | COMPANY(OPT) = DESIGN | CHECK | MODIFY | DATE         | L_W_H              | T_OPERATING ;
+{========================================================================================}
+'********'        | 'ad_CSP_BGA_BC_160_1'     | 'AD9739ABBCZ' | 'ADI'(!) = 'kita'  | '**'  | '**'   | '2022-05-15' | '12.0mm_12.0mm_1.4mm'|'-40C - 85C'
+
+
+
+END_PART
+END.
+

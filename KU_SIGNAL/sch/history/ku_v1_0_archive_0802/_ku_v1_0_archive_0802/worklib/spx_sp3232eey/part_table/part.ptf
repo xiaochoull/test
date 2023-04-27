@@ -1,0 +1,13 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SPX_SP3232EEY'
+
+{========================================================================================}
+:PART_NUMBER(OPT)   | JEDEC_TYPE(OPT)   | APP_NAME(OPT)   | COMPANY(OPT)   | VALUE(OPT)   = DESIGN | CHECK | MODIFY | COST | STATE | DATE         | L_W_T               ;
+{========================================================================================}
+ '**'               | 'SPX_TSSOP16_S'   | 'SP3232EEY'     | 'SIPEX'        | 'SP3232EEY'(!) = '**'   | '**'  | '**'   | '**' | '1'   | '2016-09-26' | '5.1mm_6.4mm_1.1mm'
+
+END_PART
+
+END.
+

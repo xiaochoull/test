@@ -1,0 +1,13 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'XILINX_XCKU115_2FLVA1517I'
+
+
+{========================================================================================}
+:PART_NUMBER(OPT) | JEDEC_TYPE(OPT) | APP_NAME(OPT) | COMPANY(OPT) = DESIGN | CHECK | MODIFY | DATE         | L_W_H              | T_OPERATING ;
+{========================================================================================}
+'********'        | 'xil_flva1517_bga'     | 'XCKU115-2FLVA1517I' | 'xilinx'(!) = 'kita'  | '**'  | '**'   | '2022-05-15' | '40.0mm_40.0mm_4.09mm'|'-40C - 85C'
+
+END_PART
+END.
+

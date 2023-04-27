@@ -1,0 +1,16 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'WILL_ESD5304D'
+
+{========================================================================================}
+:PART_NUMBER(OPT)   | JEDEC_TYPE(OPT)   | APP_NAME(OPT)   | VALUE(OPT)   | COMPANY(OPT)    = DESIGN    | CHECK | MODIFY | COST | STATE | DATE         | L_W_H                 ;
+{========================================================================================}
+ '********'         | 'will_dfn2510_10L'    | 'ESD5304D'       | 'ESD5304D'    | 'will semi'(!) = 'markita' | '**'  | '**'   | '**' | '0'   | '2018-10-24' | '2.6mm_1.1mm_0.65mm'
+
+END_PART
+
+END.
+
+
+
+

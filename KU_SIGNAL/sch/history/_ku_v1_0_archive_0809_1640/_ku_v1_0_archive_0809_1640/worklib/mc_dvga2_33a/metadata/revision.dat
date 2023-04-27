@@ -1,0 +1,194 @@
+(Cell	mc_dvga2_33a
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.26)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	03/10/21,20:24:01)
+
+			(User	Administrator)
+
+			(Path	sch_lib.mc_dvga2_33a)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	04/02/21,15:13:50)
+
+			(User	Administrator)
+
+			(Path	rf_lib.mc_dvga2_33a)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(RevisionInfoBlock	
+
+				(Baselined	0)
+
+				(Revision	0.0.24)
+
+				(ModificationStatus	NULL)
+
+				(Status	)
+
+				(ErrorStatus	0)
+
+				(CreateInfo	
+
+					(Time	)
+
+					(User	)
+
+					(Path	)
+
+				)
+
+			)
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000ec172d0b)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.13)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/10/21,20:52:50)
+
+							(User	Administrator)
+
+							(Path	sch_lib.mc_dvga2_33a)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001d9c03d9)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000242cbfdd)
+
+			(Primitives	1
+
+				(Primitive	MC_DVGA2_33A
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.8)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/10/21,20:24:05)
+
+							(User	Administrator)
+
+							(Path	sch_lib.mc_dvga2_33a)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	MC_DVGA2_33A
+
+							(PackType	MC_DVGA2_33A)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001c5003af)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.6-p001 (v16-6-112A))
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	000000001bbc03a4)
+
+)
+

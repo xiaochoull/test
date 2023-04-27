@@ -1,0 +1,15 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'BLM15'
+
+{========================================================================================}
+:'PART_NUMBER'(OPT)    |'APP_NAME'(OPT)    |'JEDEC_TYPE'(OPT)    |'COMPANY'(OPT='Murata') |'VALUE'(OPT)     = 'IMPEDANCE_TYP_100MHZ_20DEGREE'    |'RATED_CURRENT'    |'DC_RESISTANCE_MAX'    |'TYPE'          |'NUMBERS_OF_CIRCUIT'    |'COST'    |'STATE'    |'MODIFY'     |'CHECK'      |'DESIGN'     |'DATE'          |'L_W_T'                 ;
+{========================================================================================}
+'**' |'BLM15PX330SN1' |'L0402_S' |'Murata' |'33ohm'(!)='33ohm' |'3000mA' |'0.022ohm' |'Monolithic' |'1' |'0.33' |'3' |'han' |'han' |'han' |'2018-05-24' |'1.0_0.5_0.5mm' 
+'53080002' |'BLM15PX121SN1' |'L0402_S' |'Murata' |'120ohm'(!)='120ohm' |'2000mA' |'0.055ohm' |'Monolithic' |'1' |'0.33' |'3' |'**' |'**' |'fanyue' |'2018-05-24' |'1.0_0.5_0.5mm'
+ 
+
+END_PART
+
+END.
+

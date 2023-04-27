@@ -1,0 +1,14 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MIC_MT41KXXXMXHX'
+
+{========================================================================================}
+:PART_NUMBER(OPT)   | JEDEC_TYPE(OPT)   | APP_NAME(OPT)   | VALUE(OPT)      | COMPANY(OPT)   = DESIGN    | CHECK | MODIFY | COST | STATE | DATE         | L_W_T                ;
+{========================================================================================}
+ '45100006'     | 'MIC_FBGA96A_S'   | 'MT41K512M16HA-125IT' | 'MT41K512M16HA-125IT' | 'MICRON'(!)    = 'jingxin' | '**'  | '**'   | '**' | '1'   | '2016-12-20' | '9.1mm_14.1mm_1.2mm'
+ '45100007'     | 'MIC_FBGA96A_S'   | 'MT41K256M16HA-125IT' | 'MT41K256M16HA-125IT' | 'MICRON'(!)    = 'jingxin' | '**'  | '**'   | '**' | '1'   | '2016-12-20' | '9.1mm_14.1mm_1.2mm'
+
+END_PART
+
+END.
+

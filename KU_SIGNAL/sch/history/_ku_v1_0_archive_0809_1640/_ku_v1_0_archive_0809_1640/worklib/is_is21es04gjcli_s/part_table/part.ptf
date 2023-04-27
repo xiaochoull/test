@@ -1,0 +1,14 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'IS_IS21ES04GJCLI_S'
+
+{========================================================================================}
+:'PART_NUMBER'(OPT)    |'JEDEC_TYPE'(OPT)    |'APP_NAME'(OPT)    |'COMPANY'(OPT)    |'VALUE'(OPT)            = 'DESIGN'          |'CHECK'    |'MODIFY'    |'COST'    |'STATE'    |'DATE'         |'L_W_H'                ;
+{========================================================================================}
+ '**'                  |'IS_FBGA153_S_S'         |'IS21ES04GJCLI'    |'ISSI'            |'IS_IS21ES04GJCLI' (!)  = 'CHENYANGYANG'  |'**'     |'**'      |'**'    |'1'      |'2018-3-16'  |'13.1mm_11.6mm_1mm'  
+ '**'                  |'IS_FBGA153_S_S'         |'IS21ES08GJCLI'    |'ISSI'            |'IS_IS21ES08GJCLI' (!)  = 'CHENYANGYANG'  |'**'     |'**'      |'**'    |'1'      |'2018-3-16'  |'13.1mm_11.6mm_1mm' 
+
+END_PART
+
+END.
+

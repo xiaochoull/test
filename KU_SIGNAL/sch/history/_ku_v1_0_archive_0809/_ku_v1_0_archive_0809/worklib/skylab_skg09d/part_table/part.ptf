@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SKYLAB_SKG09D'
+{========================================================================================}
+:PART_NUMBER(OPT) | JEDEC_TYPE(OPT) | APP_NAME(OPT) | COMPANY(OPT) | VALUE(OPT) = DESIGN | CHECK | MODIFY | COST | STATE | DATE | L_W_H ;
+{========================================================================================}
+'**' | 'skylab_skg09d_S ' | 'SKG09D' | 'SKYLAB' | 'SKG09D'(!) = 'fyadan' |'**' | 'fyadan' | '**' | '1' | '2019-12-28' | '10.1_9.7_2.2mm'
+
+END_PART
+END.
+

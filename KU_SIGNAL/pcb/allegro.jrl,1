@@ -1,0 +1,23 @@
+\t (00:00:00) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:00)     Journal start - Mon Aug 29 18:30:57 2022
+\t (00:00:00)         Host=MARKITA User=Administrator Pid=6224 CPUs=4
+\t (00:00:00) 
+\t (00:00:00) Opening existing design...
+\d (00:00:00) Database opened: Z:/08Ku信号处理模块/pcb/kupl_t_0825.brd
+\i (00:00:01) trapsize 8863
+\i (00:00:01) trapsize 8701
+\i (00:00:01) trapsize 8891
+\i (00:00:01) trapsize 8969
+\i (00:00:01) trapsize 10738
+\i (00:00:01) trapsize 10738
+\i (00:00:01) etchedit 
+\i (00:00:02) zoom in 1 
+\i (00:00:02) setwindow pcb
+\i (00:00:02) zoom in 64.6970 81.1669
+\i (00:00:02) trapsize 5369
+\i (00:00:03) zoom out 1 
+\i (00:00:03) setwindow pcb
+\i (00:00:03) zoom out 64.6970 81.1669
+\i (00:00:03) trapsize 10738
+\i (00:00:05) exit 
+\t (00:00:05)     Journal end - Mon Aug 29 18:31:02 2022

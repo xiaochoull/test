@@ -1,0 +1,4 @@
+Version 15.0
+START_MODULEORDER
+@ku_lib.mc_hfcn_xxxx_4pin(sym_1)	0	0	1	0	0	
+END_MODULEORDER

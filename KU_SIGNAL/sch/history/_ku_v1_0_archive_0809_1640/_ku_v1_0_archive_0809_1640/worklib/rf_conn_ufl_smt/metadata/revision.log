@@ -1,0 +1,47 @@
+
+	(Comment
+		(Time 04/23/15,11:42:22)
+		(User cwx)
+		(MsgId ECO_021)
+		(Text "Package RF_CONN_UFL_SMT added to cell")
+		(Param1 RF_CONN_UFL_SMT)
+	)
+	(Comment
+		(Time 04/23/15,11:44:32)
+		(User cwx)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	(Comment
+		(Time 04/23/15,12:00:09)
+		(User cwx)
+		(MsgId ECO_211)
+		(Text "PTF file part.ptf added")
+		(Param1 part.ptf)
+	)
+
+	(Comment
+		(Time 04/23/15,12:05:53)
+		(User cwx)
+		(MsgId ECO_213)
+		(Text "PTF file part.ptf renamed to rf_conn_ufl_smt.ptf")
+		(Param1 part.ptf)
+		(Param2 rf_conn_ufl_smt.ptf)
+	)
+

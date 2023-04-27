@@ -1,0 +1,216 @@
+#ISCELL
+  standard sfdk_page1_a3 *
+  *
+#ISCELL
+  standard vcc *
+  page14_i1
+#ISCELL
+  standard gnd *
+  page14_i100
+#CELL
+  rcl r *
+  page14_i101
+#CELL
+  rcl r *
+  page14_i102
+#CELL
+  rcl r *
+  page14_i104
+#CELL
+  _ku_v1_0 max_max2688 *
+  page14_i105
+#CELL
+  _ku_v1_0 l_hq *
+  page14_i106
+#CELL
+  rcl c *
+  page14_i107
+#ISCELL
+  standard gnd *
+  page14_i108
+#CELL
+  rcl c *
+  page14_i109
+#CELL
+  rcl r *
+  page14_i110
+#CELL
+  rcl c *
+  page14_i111
+#ISCELL
+  standard gnd *
+  page14_i112
+#CELL
+  rcl r *
+  page14_i113
+#ISCELL
+  standard gnd *
+  page14_i13
+#ISCELL
+  standard gnd *
+  page14_i16
+#ISCELL
+  standard gnd *
+  page14_i17
+#ISCELL
+  standard gnd *
+  page14_i20
+#ISCELL
+  standard gnd *
+  page14_i23
+#CELL
+  _ku_v1_0 skylab_skg09d *
+  page14_i29
+#CELL
+  rcl c *
+  page14_i30
+#CELL
+  rcl c *
+  page14_i31
+#CELL
+  rcl c *
+  page14_i32
+#CELL
+  rcl c *
+  page14_i33
+#CELL
+  murata mur_blm18 *
+  page14_i34
+#ISCELL
+  standard gnd *
+  page14_i35
+#ISCELL
+  standard gnd *
+  page14_i36
+#CELL
+  rcl r *
+  page14_i37
+#CELL
+  rcl c *
+  page14_i38
+#CELL
+  rcl c *
+  page14_i39
+#CELL
+  rcl c *
+  page14_i40
+#CELL
+  rcl r *
+  page14_i41
+#CELL
+  _ku_v1_0 l_hq *
+  page14_i42
+#CELL
+  rcl r *
+  page14_i43
+#CELL
+  rcl c *
+  page14_i44
+#CELL
+  _ku_v1_0 c_all *
+  page14_i45
+#CELL
+  _ku_v1_0 mur_sf1186b_3 *
+  page14_i46
+#CELL
+  rcl c *
+  page14_i47
+#CELL
+  rcl c *
+  page14_i48
+#CELL
+  rcl r *
+  page14_i50
+#CELL
+  _ku_v1_0 spx_sp3078een *
+  page14_i53
+#CELL
+  rcl r *
+  page14_i62
+#CELL
+  _ku_v1_0 spx_sp3232eey *
+  page14_i70
+#ISCELL
+  standard vcc *
+  page14_i71
+#ISCELL
+  standard gnd *
+  page14_i72
+#ISCELL
+  standard gnd *
+  page14_i73
+#CELL
+  rcl c *
+  page14_i74
+#CELL
+  rcl c *
+  page14_i75
+#CELL
+  rcl c *
+  page14_i76
+#CELL
+  rcl c *
+  page14_i77
+#CELL
+  rcl c *
+  page14_i78
+#CELL
+  rcl c *
+  page14_i79
+#CELL
+  rcl c *
+  page14_i80
+#ISCELL
+  standard gnd *
+  page14_i81
+#ISCELL
+  standard gnd *
+  page14_i82
+#CELL
+  rcl c *
+  page14_i83
+#ISCELL
+  standard vcc *
+  page14_i84
+#CELL
+  _ku_v1_0 spx_sp3077een *
+  page14_i86
+#ISCELL
+  standard gnd *
+  page14_i87
+#ISCELL
+  standard vcc *
+  page14_i88
+#CELL
+  rcl c *
+  page14_i89
+#ISCELL
+  standard gnd *
+  page14_i90
+#CELL
+  rcl r *
+  page14_i91
+#CELL
+  _ku_v1_0 spx_sp3077een *
+  page14_i92
+#ISCELL
+  standard vcc *
+  page14_i93
+#CELL
+  rcl r *
+  page14_i94
+#CELL
+  rcl c *
+  page14_i95
+#ISCELL
+  standard gnd *
+  page14_i96
+#ISCELL
+  standard gnd *
+  page14_i97
+#CELL
+  _ku_v1_0 rf_conn_ufl_smt *
+  page14_i98
+#CELL
+  _ku_v1_0 rf_conn_ufl_smt *
+  page14_i99

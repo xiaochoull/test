@@ -1,0 +1,194 @@
+(Cell	mc_tc1_33_75g2
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.11)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	05/16/22,17:10:47)
+
+			(User	Administrator)
+
+			(Path	ku_lib.mc_tc1_33_75g2)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	05/21/22,16:25:57)
+
+			(User	Administrator)
+
+			(Path	ku_lib.mc_tc1_33_75g2)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(RevisionInfoBlock	
+
+				(Baselined	0)
+
+				(Revision	0.0.10)
+
+				(ModificationStatus	NULL)
+
+				(Status	)
+
+				(ErrorStatus	0)
+
+				(CreateInfo	
+
+					(Time	)
+
+					(User	)
+
+					(Path	)
+
+				)
+
+			)
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000028e0456c)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/16/22,17:14:58)
+
+							(User	Administrator)
+
+							(Path	ku_lib.mc_tc1_33_75g2)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001b740382)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000006e162f17)
+
+			(Primitives	1
+
+				(Primitive	MC_TC1_33_75G2
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/16/22,17:10:54)
+
+							(User	Administrator)
+
+							(Path	ku_lib.mc_tc1_33_75g2)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	MC_TC1_33_75G2
+
+							(PackType	MC_TC1_33_75G2)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001b610362)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.6-p001 (v16-6-112A))
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	000000001b360346)
+
+)
+

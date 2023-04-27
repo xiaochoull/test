@@ -1,0 +1,19 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'XILINX_SPIFLASH_8P'
+
+{========================================================================================}
+:'PART_NUMBER' |'JEDEC_TYPE' |'APP_NAME' |'COMPANY' |'VALUE' |'VOLTAGE'='TA' |'SPEED_OPTION' |'DESIGN' |'CHECK' |'MODIFY' |'COST' |'STATE' |'DATE' |'L_W_T';
+{========================================================================================}
+'**' |'QF_WSON8_S' |'MT25QL256ABA1EW9-0SIT' |'Micron' |'MT25QL256ABA1EW9-0SIT' |'2.7~3.6V'(!) ='INDU-40C+85C' |'**' |'fyadan' |'fyadan' |'fyadan' |'**' |'1' |'2017-11-03' |'8_6_0.75MM'
+'**' |'QF_WSON8_S' |'MT25QU256ABA1EW9-0SIT' |'Micron' |'MT25QU256ABA1EW9-0SIT' |'1.7~2.0V'(!) ='INDU-40C+85C' |'**' |'fyadan' |'fyadan' |'fyadan' |'**' |'1' |'2017-11-03' |'8_6_0.75MM'
+'**' |'QF_WSON8_S' |'MT25QU512ABB1EW9-0SIT' |'Micron' |'MT25QU512ABB1EW9-0SIT' |'1.7~2.0V'(!) ='INDU-40C+85C' |'**' |'fyadan' |'fyadan' |'fyadan' |'**' |'1' |'2017-11-03' |'8_6_0.75MM'
+'**' |'QF_WSON8_S' |'MX25U25645GZ4I00' |'Macronix' |'MX25U25645GZ4I00' |'1.65~2.0V'(!) ='INDU-40C+85C' |'**' |'fyadan' |'fyadan' |'fyadan' |'**' |'1' |'2017-11-03' |'8_6_0.75MM'
+'**' |'QF_WSON8_S' |'MX66L51235FZ2I-10G' |'Macronix' |'MX66L51235FZ2I-10G' |'2.7~3.6V'(!) ='INDU-40C+85C' |'**' |'fyadan' |'fyadan' |'fyadan' |'**' |'1' |'2017-11-03' |'8_6_0.75MM'
+'**' |'QF_WSON8_S' |'MT25QU256ABA1EW7-0SIT' |'Micron' |'MT25QU256ABA1EW7-0SIT' |'1.7~2.0V'(!) ='INDU-40C+85C' |'**' |'fyadan' |'fyadan' |'fyadan' |'**' |'1' |'2017-11-03' |'6_5_0.75MM'
+'**' |'QF_WSON8_S' |'MT25QL256ABA1EW7-0SIT' |'Micron' |'MT25QL256ABA1EW7-0SIT' |'2.7~3.6V'(!) ='INDU-40C+85C' |'**' |'fyadan' |'fyadan' |'fyadan' |'**' |'1' |'2017-11-03' |'6_5_0.75MM'
+
+END_PART
+
+END.
+

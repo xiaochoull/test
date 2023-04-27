@@ -1,0 +1,194 @@
+(Cell	vco_cvco55cc_xxxx
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.9)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	06/09/22,19:12:13)
+
+			(User	Administrator)
+
+			(Path	ku_lib.vco_cvco55cc_xxxx)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	06/09/22,19:20:08)
+
+			(User	Administrator)
+
+			(Path	ku_lib.vco_cvco55cc_xxxx)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(RevisionInfoBlock	
+
+				(Baselined	0)
+
+				(Revision	0.0.6)
+
+				(ModificationStatus	NULL)
+
+				(Status	)
+
+				(ErrorStatus	0)
+
+				(CreateInfo	
+
+					(Time	)
+
+					(User	)
+
+					(Path	)
+
+				)
+
+			)
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000c5f0c4d4)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/09/22,19:15:44)
+
+							(User	Administrator)
+
+							(Path	ku_lib.vco_cvco55cc_xxxx)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001dd303de)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000009d1c2c2f)
+
+			(Primitives	1
+
+				(Primitive	VCO_CVCO55CC_XXXX
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/09/22,19:12:16)
+
+							(User	Administrator)
+
+							(Path	ku_lib.vco_cvco55cc_xxxx)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	VCO_CVCO55CC_XXXX
+
+							(PackType	VCO_CVCO55CC_XXXX)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001f030406)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.6-p001 (v16-6-112A))
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	000000001b330345)
+
+)
+

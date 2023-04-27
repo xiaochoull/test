@@ -1,0 +1,194 @@
+(Cell	tyco_1410189_3
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.8)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	09/07/19,17:59:39)
+
+			(User	naliyang)
+
+			(Path	zzzvpx_lib.tyco_1410189_3)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	08/09/19,20:29:17)
+
+			(User	naliyang)
+
+			(Path	zzzvpx_lib.tyco_1410187_3)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(RevisionInfoBlock	
+
+				(Baselined	0)
+
+				(Revision	0.0.5)
+
+				(ModificationStatus	NULL)
+
+				(Status	Created)
+
+				(ErrorStatus	0)
+
+				(CreateInfo	
+
+					(Time	09/07/19,17:59:39)
+
+					(User	naliyang)
+
+					(Path	zzzvpx_lib.tyco_1410189_3)
+
+				)
+
+			)
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000a6a50ca0)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.5)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/07/19,17:59:39)
+
+							(User	naliyang)
+
+							(Path	zzzvpx_lib.tyco_1410189_3)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001d7c03d2)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000f5c39cdd)
+
+			(Primitives	1
+
+				(Primitive	TYCO_1410189_3
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/07/19,17:59:39)
+
+							(User	naliyang)
+
+							(Path	zzzvpx_lib.tyco_1410189_3)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	TYCO_1410189_3
+
+							(PackType	TYCO_1410189_3)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001c3203d7)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.6-S051 (v16-6-112ED))
+
+		(License	Concept_HDL_studio)
+
+	)
+
+	(Checksum	000000001b910378)
+
+)
+

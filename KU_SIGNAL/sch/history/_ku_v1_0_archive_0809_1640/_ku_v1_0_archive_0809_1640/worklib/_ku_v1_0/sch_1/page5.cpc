@@ -1,0 +1,258 @@
+#ISCELL
+  standard sfdk_page1_a3 *
+  *
+#CELL
+  rcl r *
+  page5_i100
+#CELL
+  rcl r *
+  page5_i101
+#CELL
+  rcl r *
+  page5_i102
+#ISCELL
+  standard vcc *
+  page5_i103
+#ISCELL
+  standard gnd *
+  page5_i110
+#ISCELL
+  standard gnd *
+  page5_i118
+#ISCELL
+  standard gnd *
+  page5_i119
+#ISCELL
+  standard vcc *
+  page5_i122
+#ISCELL
+  standard vcc *
+  page5_i123
+#CELL
+  rcl c *
+  page5_i125
+#ISCELL
+  standard gnd *
+  page5_i126
+#CELL
+  rcl c *
+  page5_i130
+#CELL
+  rcl r *
+  page5_i131
+#CELL
+  rcl r *
+  page5_i132
+#CELL
+  rcl r *
+  page5_i133
+#CELL
+  _ku_v1_0 xl_xc7z045i900 *
+  page5_i135
+#ISCELL
+  standard vcc *
+  page5_i136
+#ISCELL
+  standard gnd *
+  page5_i137
+#CELL
+  _ku_v1_0 led *
+  page5_i138
+#CELL
+  _ku_v1_0 led *
+  page5_i139
+#CELL
+  rcl r *
+  page5_i140
+#CELL
+  _ku_v1_0 is_is21es04gjcli_s *
+  page5_i169
+#CELL
+  _ku_v1_0 is_is21es04gjcli_s *
+  page5_i175
+#CELL
+  rcl r *
+  page5_i176
+#ISCELL
+  standard gnd *
+  page5_i178
+#ISCELL
+  standard gnd_x *
+  page5_i18
+#ISCELL
+  standard gnd *
+  page5_i180
+#ISCELL
+  standard gnd *
+  page5_i181
+#ISCELL
+  standard vcc *
+  page5_i182
+#ISCELL
+  standard vcc *
+  page5_i184
+#CELL
+  rcl c *
+  page5_i185
+#ISCELL
+  standard gnd *
+  page5_i186
+#ISCELL
+  standard vcc *
+  page5_i187
+#CELL
+  rcl c *
+  page5_i188
+#CELL
+  rcl c *
+  page5_i189
+#CELL
+  rcl c *
+  page5_i190
+#CELL
+  rcl c *
+  page5_i191
+#CELL
+  rcl c *
+  page5_i192
+#CELL
+  rcl c *
+  page5_i193
+#CELL
+  rcl c *
+  page5_i194
+#CELL
+  rcl c *
+  page5_i195
+#CELL
+  rcl c *
+  page5_i196
+#CELL
+  rcl c *
+  page5_i197
+#CELL
+  rcl c *
+  page5_i198
+#CELL
+  rcl r *
+  page5_i199
+#CELL
+  rcl c *
+  page5_i2
+#CELL
+  rcl r *
+  page5_i200
+#CELL
+  rcl r *
+  page5_i201
+#CELL
+  rcl r *
+  page5_i202
+#CELL
+  rcl r *
+  page5_i203
+#CELL
+  rcl r *
+  page5_i204
+#CELL
+  rcl r *
+  page5_i205
+#CELL
+  rcl r *
+  page5_i206
+#CELL
+  rcl r *
+  page5_i207
+#ISCELL
+  standard vcc *
+  page5_i208
+#CELL
+  rcl c *
+  page5_i26
+#CELL
+  _ku_v1_0 ttn_ox_xxxxx *
+  page5_i3
+#ISCELL
+  standard vcc *
+  page5_i39
+#CELL
+  rcl r *
+  page5_i43
+#CELL
+  _ku_v1_0 will_esd5304d *
+  page5_i52
+#CELL
+  rcl r *
+  page5_i60
+#CELL
+  _ku_v1_0 xilinx_spiflash_8p *
+  page5_i66
+#CELL
+  _ku_v1_0 xl_xc7z045i900 *
+  page5_i75
+#CELL
+  rcl r *
+  page5_i76
+#ISCELL
+  standard vcc *
+  page5_i77
+#CELL
+  rcl r *
+  page5_i78
+#CELL
+  rcl r *
+  page5_i80
+#CELL
+  rcl r *
+  page5_i81
+#CELL
+  rcl r *
+  page5_i82
+#CELL
+  rcl r *
+  page5_i83
+#CELL
+  rcl r *
+  page5_i84
+#CELL
+  rcl r *
+  page5_i85
+#ISCELL
+  standard gnd *
+  page5_i86
+#ISCELL
+  standard vcc *
+  page5_i88
+#CELL
+  rcl r *
+  page5_i89
+#CELL
+  _ku_v1_0 xl_xc7z045i900 *
+  page5_i9
+#CELL
+  rcl r *
+  page5_i90
+#CELL
+  rcl r *
+  page5_i91
+#ISCELL
+  standard gnd *
+  page5_i92
+#ISCELL
+  standard gnd *
+  page5_i93
+#ISCELL
+  standard vcc *
+  page5_i94
+#ISCELL
+  standard gnd *
+  page5_i95
+#ISCELL
+  standard gnd *
+  page5_i96
+#ISCELL
+  standard gnd *
+  page5_i97
+#CELL
+  rcl r *
+  page5_i99

@@ -1,0 +1,4 @@
+Version 15.0
+START_MODULEORDER
+@ku_lib.adi_ad9739a(sym_1)	0	0	1	0	0	
+END_MODULEORDER

@@ -1,0 +1,13 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SC4215HSETRT'
+
+{========================================================================================}
+:PART_NUMBER(OPT)   | JEDEC_TYPE(OPT)   | APP_NAME(OPT)   | COMPANY(OPT)   | VALUE(OPT)     = DESIGN        | CHECK | MODIFY | COST | STATE | DATE         | L_W_T                | STORAGETEMPERATURERANGE ;
+{========================================================================================}
+ '40520027'               | 'SEM_SOIC8_S'     | 'SC4215HSETRT'  | 'SEMTECH'      | 'SC4215HSETRT'(!) = 'chenyanqing' | '**'  | '**'   | '**' | '1'   | '2009-08-03' | '5.0mm_6.0mm_1.75mm' | '-65c to +150c'        
+
+END_PART
+
+END.
+

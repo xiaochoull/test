@@ -1,0 +1,14 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'AU5325'
+
+
+{========================================================================================}
+:PART_NUMBER(OPT) | JEDEC_TYPE(OPT) | APP_NAME(OPT) | COMPANY(OPT) = DESIGN | CHECK | MODIFY | DATE         | L_W_H              | T_OPERATING ;
+{========================================================================================}
+'********'        | 'SILI_QFN64_S'  | 'AU5325BCx'   | 'aura'(!) = 'kita'    | '**'  | '**'   | '2022-06-01' | '9.0mm_9.0mm_0.9mm'|'-40C - 85C'
+
+
+END_PART
+END.
+

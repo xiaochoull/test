@@ -1,0 +1,21 @@
+	(Comment
+		(Time 12/28/19,13:27:32)
+		(User naliyang)
+		(MsgId ECO_021)
+		(Text "Package SKYLAB_SKG09D added to cell")
+		(Param1 "SKYLAB_SKG09D")
+	)
+	(Comment
+		(Time 12/28/19,13:28:46)
+		(User naliyang)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 "sym_1")
+	)
+	(Comment
+		(Time 12/28/19,13:39:51)
+		(User naliyang)
+		(MsgId ECO_211)
+		(Text "PTF file part.ptf added")
+		(Param1 "part.ptf")
+	)

@@ -1,0 +1,114 @@
+#ISCELL
+  standard sfdk_page1_a3 *
+  *
+#ISCELL
+  standard gnd *
+  page15_i1
+#CELL
+  murata mur_blm18 *
+  page15_i10
+#CELL
+  rcl r *
+  page15_i18
+#CELL
+  rcl r *
+  page15_i19
+#CELL
+  rcl c *
+  page15_i2
+#ISCELL
+  standard gnd *
+  page15_i20
+#CELL
+  rcl r *
+  page15_i21
+#CELL
+  rcl r *
+  page15_i22
+#ISCELL
+  standard gnd *
+  page15_i24
+#CELL
+  _ku_v1_0 led *
+  page15_i25
+#ISCELL
+  standard vcc *
+  page15_i26
+#ISCELL
+  standard vcc *
+  page15_i27
+#CELL
+  rcl r *
+  page15_i28
+#CELL
+  rcl r *
+  page15_i29
+#CELL
+  rcl c *
+  page15_i3
+#CELL
+  rcl r *
+  page15_i30
+#CELL
+  rcl r *
+  page15_i31
+#CELL
+  rcl r *
+  page15_i32
+#CELL
+  rcl r *
+  page15_i33
+#CELL
+  rcl r *
+  page15_i34
+#ISCELL
+  standard gnd *
+  page15_i35
+#ISCELL
+  standard vcc *
+  page15_i36
+#ISCELL
+  standard vcc *
+  page15_i39
+#CELL
+  rcl c *
+  page15_i4
+#CELL
+  rcl r *
+  page15_i40
+#ISCELL
+  standard gnd *
+  page15_i43
+#CELL
+  _ku_v1_0 xilinx_spiflash_8p *
+  page15_i44
+#ISCELL
+  standard gnd *
+  page15_i45
+#CELL
+  rcl c *
+  page15_i46
+#ISCELL
+  standard vcc *
+  page15_i47
+#ISCELL
+  standard gnd *
+  page15_i48
+#CELL
+  _ku_v1_0 xilinx_xcku115_2flva1517i *
+  page15_i49
+#CELL
+  rcl c *
+  page15_i5
+#CELL
+  rcl r *
+  page15_i50
+#ISCELL
+  standard gnd *
+  page15_i6
+#CELL
+  rcl c *
+  page15_i7
+#ISCELL
+  standard vcc *
+  page15_i8

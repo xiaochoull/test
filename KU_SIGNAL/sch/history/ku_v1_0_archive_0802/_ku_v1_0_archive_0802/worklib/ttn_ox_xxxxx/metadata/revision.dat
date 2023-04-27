@@ -1,0 +1,166 @@
+(Cell	ttn_ox_xxxxx
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	1.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	03/24/17,11:16:57)
+
+			(User	Administrator)
+
+			(Path	123_lib.ttn_ox_xxxxx)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Checksum	1e86cfa1)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	1.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/24/17,11:16:57)
+
+							(User	Administrator)
+
+							(Path	123_lib.ttn_ox_xxxxx)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	4fba0215)
+
+		)
+
+		(View	Chips
+
+			(Checksum	a5678400)
+
+			(Primitives	1
+
+				(Primitive	OX_XXXXX
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	1.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/24/17,11:16:57)
+
+							(User	Administrator)
+
+							(Path	123_lib.ttn_ox_xxxxx)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	OX_XXXXX
+
+							(PackType	OX_XXXXX)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	1dee01b2)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-p003)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	ef6101bf)
+
+)
+

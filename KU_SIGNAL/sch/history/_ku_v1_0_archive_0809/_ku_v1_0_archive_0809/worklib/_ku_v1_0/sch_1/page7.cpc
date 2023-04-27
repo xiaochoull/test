@@ -1,0 +1,141 @@
+#ISCELL
+  standard sfdk_page1_a3 *
+  *
+#CELL
+  rcl c *
+  page8_i10
+#CELL
+  rcl c *
+  page8_i11
+#CELL
+  rcl c *
+  page8_i12
+#CELL
+  rcl c *
+  page8_i13
+#CELL
+  rcl c *
+  page8_i15
+#CELL
+  rcl c *
+  page8_i16
+#CELL
+  rcl c *
+  page8_i17
+#ISCELL
+  standard vcc *
+  page8_i18
+#CELL
+  rcl c *
+  page8_i2
+#CELL
+  rcl c *
+  page8_i20
+#CELL
+  rcl c *
+  page8_i21
+#ISCELL
+  standard vcc *
+  page8_i22
+#CELL
+  rcl c *
+  page8_i23
+#CELL
+  rcl c *
+  page8_i24
+#CELL
+  rcl c *
+  page8_i25
+#CELL
+  rcl c *
+  page8_i26
+#CELL
+  rcl c *
+  page8_i27
+#CELL
+  rcl c *
+  page8_i28
+#CELL
+  rcl c *
+  page8_i29
+#ISCELL
+  standard vcc *
+  page8_i3
+#CELL
+  rcl c *
+  page8_i30
+#CELL
+  rcl c *
+  page8_i31
+#CELL
+  rcl c *
+  page8_i33
+#CELL
+  rcl c *
+  page8_i34
+#CELL
+  rcl c *
+  page8_i35
+#ISCELL
+  standard vcc *
+  page8_i36
+#CELL
+  micron mic_mt41kxxxmxhx *
+  page8_i37
+#CELL
+  rcl r *
+  page8_i39
+#CELL
+  rcl c *
+  page8_i4
+#ISCELL
+  standard vcc *
+  page8_i40
+#ISCELL
+  standard vcc *
+  page8_i41
+#CELL
+  rcl r *
+  page8_i43
+#ISCELL
+  standard vcc *
+  page8_i44
+#ISCELL
+  standard vcc *
+  page8_i45
+#CELL
+  micron mic_mt41kxxxmxhx *
+  page8_i46
+#ISCELL
+  standard gnd *
+  page8_i47
+#ISCELL
+  standard gnd *
+  page8_i48
+#ISCELL
+  standard gnd *
+  page8_i49
+#CELL
+  rcl c *
+  page8_i5
+#ISCELL
+  standard gnd *
+  page8_i50
+#ISCELL
+  standard gnd *
+  page8_i51
+#ISCELL
+  standard gnd *
+  page8_i52
+#CELL
+  rcl c *
+  page8_i6
+#CELL
+  rcl c *
+  page8_i7
+#CELL
+  rcl c *
+  page8_i8
+#CELL
+  rcl c *
+  page8_i9

@@ -1,0 +1,17 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ADI_ADP7104'
+
+
+{========================================================================================}
+:PART_NUMBER(OPT) | JEDEC_TYPE(OPT) | APP_NAME(OPT) | COMPANY(OPT) | VALUE(OPT) = DESIGN | CHECK | MODIFY | COST | STATE | DATE | L_W_H | T_OPERATING ;
+{========================================================================================}
+'********' | 'ad_cp_8_5_s' | 'ADP7104ACPZ-R7' | 'ADI' | 'ADP7104ACPZ-R7'(!) = 'kita' | '**' | '**' | '**' | '1' | '2020-12-01' | '3.0mm_3.0mm_0.8mm'|'-40C - 85C'
+
+
+
+
+
+END_PART
+END.
+

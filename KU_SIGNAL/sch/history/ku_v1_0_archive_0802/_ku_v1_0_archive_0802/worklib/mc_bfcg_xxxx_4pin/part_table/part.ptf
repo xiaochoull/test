@@ -1,0 +1,18 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MC_BFCG_XXXX_4PIN'
+
+
+
+{========================================================================================}
+
+:APP_NAME(OPT)    | JEDEC_TYPE(OPT)   | PART_NUMBER(OPT) | COMPANY(OPT)    | FILTER_TYPE(OPT)   | PASS_FREQ(OPT)   = DESIGN | CHECK  | DATE         | T_OPERATING  | L_W_H                 ;
+{========================================================================================}
+
+ 'BFCG-162W+'     | 'MC_GE0805C_3_S'  | '********'       | 'mini-circuits' | 'BPF'              | '950-2200MHz'(!) = 'kita' | '**'   | '2022-05-23' | '-40C - 85C' | '2.0mm_1.25mm_0.95mm'
+
+
+
+END_PART
+END.
+

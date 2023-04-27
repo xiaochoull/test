@@ -1,0 +1,19 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'VCO_CVCO55CC_XXXX'
+
+
+{========================================================================================}
+:PART_NUMBER(OPT) | JEDEC_TYPE(OPT)               | APP_NAME(OPT)        | COMPANY(OPT) = DESIGN | CHECK | MODIFY | DATE         | L_W_H              | T_OPERATING ;
+{========================================================================================}
+'********'        | 'crystek_vco_12p7x12p7_16pin' | 'CVCO55CC-4000-4000' | 'crystek'(!) = 'kita' | '**'  | '**'   | '2022-06-09' | '12.7mm_12.7mm_5.59mm'|'-40C - 85C'
+'********'        | 'crystek_vco_12p7x12p7_16pin' | 'CVCO55BE-1874-2074' | 'crystek'(!) = 'kita' | '**'  | '**'   | '2022-06-09' | '12.7mm_12.7mm_5.59mm'|'-40C - 85C'
+'********'        | 'crystek_vco_12p7x12p7_16pin' | 'CVCO55BE-1690-2062' | 'crystek'(!) = 'kita' | '**'  | '**'   | '2022-06-09' | '12.7mm_12.7mm_5.59mm'|'-40C - 85C'
+'********'        | 'crystek_vco_12p7x12p7_16pin' | 'CVCO55BE-1896-1924' | 'crystek'(!) = 'kita' | '**'  | '**'   | '2022-06-09' | '12.7mm_12.7mm_5.59mm'|'-40C - 85C'
+'********'        | 'crystek_vco_12p7x12p7_16pin' | 'CVCO55CC-2000-2000' | 'crystek'(!) = 'kita' | '**'  | '**'   | '2022-06-09' | '12.7mm_12.7mm_5.59mm'|'-40C - 85C'
+
+
+
+END_PART
+END.
+

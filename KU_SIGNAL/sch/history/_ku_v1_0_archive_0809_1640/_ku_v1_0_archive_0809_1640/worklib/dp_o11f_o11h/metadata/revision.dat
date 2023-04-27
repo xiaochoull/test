@@ -1,0 +1,194 @@
+(Cell	dp_o11f_o11h
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.4)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	01/06/19,15:20:56)
+
+			(User	naliyang)
+
+			(Path	z45ad9009_lib.dp_o11f_o11h)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	11/22/18,13:47:45)
+
+			(User	naliyang)
+
+			(Path	ltrxv11_lib.dapu_o11f)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(RevisionInfoBlock	
+
+				(Baselined	0)
+
+				(Revision	0.0.3)
+
+				(ModificationStatus	NULL)
+
+				(Status	Created)
+
+				(ErrorStatus	0)
+
+				(CreateInfo	
+
+					(Time	01/06/19,15:20:56)
+
+					(User	naliyang)
+
+					(Path	z45ad9009_lib.dp_o11f_o11h)
+
+				)
+
+			)
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000c0880a2d)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/06/19,15:20:56)
+
+							(User	naliyang)
+
+							(Path	z45ad9009_lib.dp_o11f_o11h)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c4b03ab)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000ce19517f)
+
+			(Primitives	1
+
+				(Primitive	DP_O11F_O11H
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/06/19,15:20:56)
+
+							(User	naliyang)
+
+							(Path	z45ad9009_lib.dp_o11f_o11h)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	DP_O11F_O11H
+
+							(PackType	DP_O11F_O11H)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d1f03ae)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.6-S051 (v16-6-112ED))
+
+		(License	Concept_HDL_studio)
+
+	)
+
+	(Checksum	000000001cb803d6)
+
+)
+

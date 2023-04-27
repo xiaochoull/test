@@ -1,0 +1,13 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'adp1763'
+
+{========================================================================================}
+:'PART_NUMBER'(OPT)    |'JEDEC_TYPE'(OPT)    |'APP_NAME'(OPT)       |'COMPANY'(OPT)    |'VALUE'(OPT)              = 'DESIGN'     |'CHECK'    |'MODIFY'    |'COST'    |'STATE'    |'DATE'          |'L_W_T'                ;
+{========================================================================================}
+ '**'                  |'AD_CP_16_22_S'      |'ADP1763ACPZ-R7'      |'AD'              |'ADP1763ACPZ-R7' (!)      = 'cwx'   |'**'     |'**'      |'**'    |'1'      |'2020-05-02'  |'3.1mm_3.1mm_0.8mm'  
+
+END_PART
+
+END.
+

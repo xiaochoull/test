@@ -1,0 +1,210 @@
+#ISCELL
+  standard sfdk_page1_a3 *
+  *
+#ISCELL
+  standard vcc *
+  page6_i1
+#CELL
+  rcl r *
+  page6_i10
+#CELL
+  rcl r *
+  page6_i11
+#CELL
+  rcl r *
+  page6_i12
+#CELL
+  rcl r *
+  page6_i13
+#CELL
+  rcl r *
+  page6_i14
+#CELL
+  rcl r *
+  page6_i15
+#ISCELL
+  standard vcc *
+  page6_i16
+#CELL
+  rcl r *
+  page6_i17
+#CELL
+  rcl r *
+  page6_i18
+#CELL
+  rcl r *
+  page6_i19
+#CELL
+  rcl c *
+  page6_i2
+#CELL
+  rcl r *
+  page6_i20
+#CELL
+  rcl r *
+  page6_i21
+#CELL
+  rcl r *
+  page6_i22
+#CELL
+  rcl r *
+  page6_i23
+#CELL
+  rcl r *
+  page6_i24
+#CELL
+  rcl r *
+  page6_i25
+#CELL
+  rcl r *
+  page6_i26
+#CELL
+  rcl r *
+  page6_i27
+#CELL
+  rcl r *
+  page6_i28
+#CELL
+  rcl r *
+  page6_i29
+#CELL
+  rcl r *
+  page6_i3
+#CELL
+  rcl r *
+  page6_i4
+#CELL
+  rcl r *
+  page6_i5
+#ISCELL
+  standard vcc *
+  page6_i53
+#CELL
+  ti ti_tps51200drc *
+  page6_i54
+#CELL
+  rcl c *
+  page6_i55
+#CELL
+  rcl c *
+  page6_i56
+#CELL
+  rcl c *
+  page6_i57
+#ISCELL
+  standard vcc *
+  page6_i58
+#CELL
+  rcl r *
+  page6_i6
+#CELL
+  rcl c *
+  page6_i60
+#CELL
+  rcl r *
+  page6_i61
+#ISCELL
+  standard vcc *
+  page6_i62
+#CELL
+  rcl r *
+  page6_i63
+#CELL
+  rcl r *
+  page6_i64
+#ISCELL
+  standard vcc *
+  page6_i65
+#ISCELL
+  standard vcc *
+  page6_i66
+#CELL
+  _ku_v1_0 xl_xc7z045i900 *
+  page6_i67
+#ISCELL
+  standard vcc *
+  page6_i68
+#CELL
+  rcl r *
+  page6_i69
+#CELL
+  rcl r *
+  page6_i7
+#CELL
+  rcl r *
+  page6_i70
+#CELL
+  rcl r *
+  page6_i71
+#CELL
+  rcl c *
+  page6_i72
+#CELL
+  rcl c *
+  page6_i73
+#CELL
+  rcl c *
+  page6_i74
+#CELL
+  rcl c *
+  page6_i75
+#CELL
+  rcl c *
+  page6_i76
+#CELL
+  rcl c *
+  page6_i77
+#CELL
+  rcl c *
+  page6_i79
+#CELL
+  rcl r *
+  page6_i8
+#CELL
+  rcl c *
+  page6_i80
+#CELL
+  rcl c *
+  page6_i81
+#CELL
+  rcl c *
+  page6_i82
+#CELL
+  rcl c *
+  page6_i83
+#CELL
+  rcl c *
+  page6_i84
+#CELL
+  rcl c *
+  page6_i85
+#CELL
+  rcl c *
+  page6_i86
+#CELL
+  rcl c *
+  page6_i87
+#CELL
+  rcl c *
+  page6_i88
+#CELL
+  rcl r *
+  page6_i89
+#CELL
+  rcl r *
+  page6_i9
+#ISCELL
+  standard vcc *
+  page6_i90
+#ISCELL
+  standard vcc *
+  page6_i91
+#ISCELL
+  standard gnd *
+  page6_i92
+#ISCELL
+  standard gnd *
+  page6_i93
+#ISCELL
+  standard gnd *
+  page6_i94

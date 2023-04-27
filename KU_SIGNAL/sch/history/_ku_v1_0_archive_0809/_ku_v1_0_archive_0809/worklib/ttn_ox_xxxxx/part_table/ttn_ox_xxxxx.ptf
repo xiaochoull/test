@@ -1,0 +1,26 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'OX_XXXXX'
+
+{========================================================================================}
+:VALUE(OPT)   | PART_NUMBER(OPT)   | APP_NAME(OPT)          | SUPPLY_VOLTAGE(OPT)   | COMPANY(OPT)   | JEDEC_TYPE(OPT)    = TRI_STATE | FREQUENCY_STABILITY | TEMPERATURE_RANGE              | OUTPUT_LOGIC_AND_SYMMETRY | DESIGN    | CHECK     | MODIFY | DATE         | L_W_H               ;
+{========================================================================================}
+ '125MHZ'   | '29010013'         | 'OXETCLJTNF-125MHZ'  | '3V3'                 | 'Tai-Tien'     | 'TTN_OC32_25_105_S'(!) = 'T'       | '*'                 | '*'                            | '*'                       | 'licheng' | '**'      | '**'   | '2012-04-05' | '3.2mm_2.5mm_1.05mm'
+ '156.25MHZ'   | '29030009'      | 'OXETCLJTNF-156.25MHZ'  | '3V3'                 | 'Tai-Tien'     | 'TTN_OC32_25_105_S'(!) = 'T'       | '*'                 | '*'                            | '*'                       | 'licheng' | '**'      | '**'   | '2012-04-05' | '3.2mm_2.5mm_1.05mm'
+ '26MHZ'   | '29010012'      | 'OXETCLJTNF-26MHZ'  | '3V3'                 | 'Tai-Tien'     | 'TTN_OC32_25_105_S'(!) = 'T'       | '*'                 | '*'                            | '*'                       | 'licheng' | '**'      | '**'   | '2012-04-05' | '3.2mm_2.5mm_1.05mm'
+ '25MHZ'   | '*'      | 'OXETCLJTNF-25MHZ'  | '3V3'                 | 'Tai-Tien'     | 'TTN_OC32_25_105_S'(!) = 'T'       | '*'                 | '*'                            | '*'                       | 'licheng' | '**'      | '**'   | '2012-04-05' | '3.2mm_2.5mm_1.05mm'
+ '33.333333MHZ'   | '*'      | 'OXETCLJTNF-33.333333MHZ'  | '3V3'                 | 'Tai-Tien'     | 'TTN_OC32_25_105_S'(!) = 'T'       | '*'                 | '*'                            | '*'                       | 'licheng' | '**'      | '**'   | '2012-04-05' | '3.2mm_2.5mm_1.05mm'
+ '133.33MHZ'   | '29010011'      | 'OXJTCLJTNF-133.330000MHZ'  | '2V5'                 | 'Tai-Tien'     | 'TTN_OC32_25_105_S'(!) = 'T'       | '*'                 | '*'                            | '*'                       | 'licheng' | '**'      | '**'   | '2018-05-029' | '3.2mm_2.5mm_1.05mm'
+
+ '50MHZ'   | '*'      | 'OXETCLJTNF-50MHZ'  | '3V3'                 | 'Tai-Tien'     | 'TTN_OC32_25_105_S'(!) = 'T'       | '*'                 | '*'                            | '*'                       | 'hanshaobo' | '**'      | '**'   | '2018-09-14' | '3.2mm_2.5mm_1.05mm'
+
+ '12MHZ'   | '*'      | 'OXKTCLJTNF-12MHZ'  | '1V8'                 | 'Tai-Tien'     | 'TTN_OC32_25_105_S'(!) = 'T'       | '*'                 | '*'                            | '*'                       | 'hanshaobo' | '**'      | '**'   | '2018-09-14' | '3.2mm_2.5mm_1.05mm'
+
+ '19.2MHZ'   | '*'      | 'OXETCLJTNF-19.2MHZ'  | '3V3'                 | 'Tai-Tien'     | 'TTN_OC32_25_105_S'(!) = 'T'       | '*'                 | '*'                            | '*'                       | 'hanshaobo' | '**'      | '**'   | '2018-09-14' | '3.2mm_2.5mm_1.05mm'
+
+ '32.768KHZ'   | '*'      | 'OXETCLJTNF-32.768KHZ'  | '3V3'                 | 'Tai-Tien'     | 'TTN_OC32_25_105_S'(!) = 'T'       | '*'                 | '*'                            | '*'                       | 'hanshaobo' | '**'      | '**'   | '2018-09-14' | '3.2mm_2.5mm_1.05mm'
+
+END_PART
+
+END.
+

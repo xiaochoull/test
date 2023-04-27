@@ -1,0 +1,19 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MC_DVGA2_33A'
+
+
+{========================================================================================}
+
+:APP_NAME(OPT)   | JEDEC_TYPE(OPT)   | PART_NUMBER(OPT)   | COMPANY(OPT)   = DESIGN | CHECK | DATE         | T_OPERATING  | L_W_H       ;
+
+{========================================================================================}
+
+ 'DVGA2-33A+'    | 'holt_qfn32_ep_s' | '********'         | 'mini-circuits'(!)       = 'xiao' | '**'  | '2021-03-15' | '-40C - 85C' | '5mm_5mm_1mm'
+
+
+
+
+END_PART
+END.
+

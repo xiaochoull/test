@@ -1,0 +1,189 @@
+#ISCELL
+  standard sfdk_page1_a3 *
+  *
+#CELL
+  rcl c *
+  page25_i1
+#ISCELL
+  standard gnd *
+  page25_i10
+#CELL
+  rcl r *
+  page25_i11
+#CELL
+  rcl c *
+  page25_i12
+#CELL
+  rcl c *
+  page25_i13
+#CELL
+  rcl r *
+  page25_i14
+#CELL
+  rcl r *
+  page25_i15
+#CELL
+  rcl c *
+  page25_i16
+#CELL
+  rcl r *
+  page25_i17
+#CELL
+  rcl r *
+  page25_i18
+#CELL
+  rcl c *
+  page25_i19
+#CELL
+  rcl r *
+  page25_i20
+#CELL
+  rcl r *
+  page25_i22
+#CELL
+  rcl r *
+  page25_i23
+#CELL
+  rcl r *
+  page25_i24
+#CELL
+  rcl c *
+  page25_i25
+#CELL
+  rcl r *
+  page25_i26
+#ISCELL
+  standard gnd *
+  page25_i27
+#ISCELL
+  standard gnd *
+  page25_i28
+#CELL
+  rcl c *
+  page25_i29
+#CELL
+  _ku_v1_0 mc_tcm1_83x *
+  page25_i3
+#CELL
+  rcl r *
+  page25_i30
+#CELL
+  rcl c *
+  page25_i31
+#CELL
+  rcl r *
+  page25_i32
+#ISCELL
+  standard gnd *
+  page25_i33
+#CELL
+  rcl c *
+  page25_i34
+#CELL
+  rcl c *
+  page25_i35
+#CELL
+  rcl r *
+  page25_i36
+#CELL
+  rcl r *
+  page25_i37
+#CELL
+  rcl c *
+  page25_i38
+#CELL
+  rcl r *
+  page25_i39
+#ISCELL
+  standard gnd *
+  page25_i4
+#ISCELL
+  standard gnd *
+  page25_i40
+#CELL
+  _ku_v1_0 mc_tcm1_83x *
+  page25_i5
+#CELL
+  rcl c *
+  page25_i50
+#CELL
+  rcl c *
+  page25_i51
+#CELL
+  rcl r *
+  page25_i52
+#ISCELL
+  standard gnd *
+  page25_i53
+#CELL
+  rcl r *
+  page25_i54
+#CELL
+  rcl r *
+  page25_i55
+#CELL
+  rcl r *
+  page25_i56
+#CELL
+  rcl r *
+  page25_i57
+#CELL
+  rcl r *
+  page25_i58
+#CELL
+  rcl c *
+  page25_i59
+#CELL
+  rcl c *
+  page25_i6
+#CELL
+  _ku_v1_0 adi_ad9689 *
+  page25_i60
+#CELL
+  rcl r *
+  page25_i64
+#CELL
+  rcl r *
+  page25_i68
+#CELL
+  rcl c *
+  page25_i69
+#ISCELL
+  standard gnd *
+  page25_i7
+#CELL
+  rcl c *
+  page25_i70
+#CELL
+  rcl r *
+  page25_i71
+#CELL
+  rcl r *
+  page25_i72
+#ISCELL
+  standard gnd *
+  page25_i73
+#ISCELL
+  standard vcc *
+  page25_i74
+#CELL
+  rcl r *
+  page25_i75
+#ISCELL
+  standard gnd_x *
+  page25_i76
+#ISCELL
+  standard gnd *
+  page25_i77
+#ISCELL
+  standard gnd_x *
+  page25_i78
+#CELL
+  rcl r *
+  page25_i79
+#CELL
+  rcl c *
+  page25_i8
+#CELL
+  rcl c *
+  page25_i9

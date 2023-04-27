@@ -1,0 +1,13 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'QORVO_RFSW1012'
+
+
+{========================================================================================}
+:PART_NUMBER(OPT) | JEDEC_TYPE(OPT)      | APP_NAME(OPT) | COMPANY(OPT) = DESIGN | CHECK | MODIFY | DATE         | L_W_H              | T_OPERATING ;
+{========================================================================================}
+'********'        | 'qorvo_qfn12_2x2_ep' | 'RFSW1012'    | 'QORVO'(!) = 'kita'  | '**'  | '**'   | '2022-06-13' | '2.0mm_2.0mm_0.55mm'|'-40C - 85C'
+
+END_PART
+END.
+

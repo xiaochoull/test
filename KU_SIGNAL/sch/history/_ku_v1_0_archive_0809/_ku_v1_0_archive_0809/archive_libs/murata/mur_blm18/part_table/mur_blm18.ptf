@@ -1,0 +1,23 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'BLM18'
+
+{========================================================================================}
+:PART_NUMBER(OPT)   | APP_NAME(OPT)    | JEDEC_TYPE(OPT)   | COMPANY(OPT='Murata')   | VALUE(OPT)   = IMPEDANCE_TYP_100MHZ_20DEGREE | RATED_CURRENT | DC_RESISTANCE_MAX | TYPE         | NUMBERS_OF_CIRCUIT | COST   | STATE | MODIFY     | CHECK       | DESIGN         | DATE         | L_W_T                ;
+{========================================================================================}
+ '40250000'     | 'BLM18PG330SN1B' | 'MUR_BLM18_S'     | 'Murata'                | '33ohm'(!)   = '33ohm'                       | '3000mA'      | '0.025ohm'        | 'Monolithic' | '1'                | '0.33' | '3'   | 'licheng' | 'licheng' | 'licheng'    | '2003-9-3'   | '1.6mm_0.8mmm_0.8mm'
+ '40250012'     | 'BLM18PG221SN1' | 'MUR_BLM18_S'     | 'Murata'                | '220ohm'(!)   = '220ohm'                       | '2000mA'      | '0.05ohm'        | 'Monolithic' | '1'                | '0.33' | '3'   | 'licheng' | 'licheng' | 'licheng'    | '2003-9-3'   | '1.6mm_0.8mmm_0.8mm'
+ '53080026'     | 'BLM18BD601SN1' | 'MUR_BLM18_S'     | 'Murata'                | '600ohm'(!)   = '600ohm'                       | '200mA'      | '0.65ohm'        | 'Monolithic' | '1'                | '*' | '3'   | 'licheng' | 'licheng' | 'licheng'    | '2011-9-1'   | '1.6mm_0.8mmm_0.8mm'
+ '53080024'     | 'BLM18HE601SN1' | 'MUR_BLM18_S'     | 'Murata'                | '600ohm'(!)   = '600ohm'                       | '800mA'      | '0.25ohm'        | 'Monolithic' | '1'                | '*' | '3'   | 'licheng' | 'licheng' | 'licheng'    | '2011-12-20'   | '1.6mm_0.8mmm_0.8mm'
+
+ '40250000'     | 'BLM18PG330SN1B' | 'L0603S_S'     | 'Murata'                | '33ohm'(!)   = '33ohm'                       | '3000mA'      | '0.025ohm'        | 'Monolithic' | '1'                | '0.33' | '3'   | 'han' | 'han' | 'han'    | '2003-9-3'   | '1.6mm_0.8mmm_0.8mm'
+
+ '**'     | 'BLM18PG181SN1D' | 'L0603S_S'     | 'Murata'                | '180ohm'(!)   = '180ohm'                       | '1500mA'      | '0.09ohm'        | 'Monolithic' | '1'                | '0.33' | '3'   | 'han' | 'han' | 'han'    | '2019-11-13'   | '1.6mm_0.8mmm_0.8mm'
+
+
+ '********'| 'BLM18PG121SN1' | 'MUR_BLM18_S'| 'Murata'| '120ohm'(!) = '120ohm' | '2000mA' | '0.05ohm' | 'Monolithic' | '1' | '**' | '**'   | 'kita' | '**' | '**'    | '2022-05-31'   | '1.6mm_0.8mmm_0.8mm'
+
+END_PART
+
+END.
+

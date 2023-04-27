@@ -1,0 +1,25 @@
+FILE_TYPE=LIBRARY_PARTS;
+primitive 'L_HQ';
+  pin
+    'N2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+    'N1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    PART_NAME='L_HQ';
+    BODY_NAME='L_HQ';
+    PHYS_DES_PREFIX='L';
+    CLASS='DISCRETE';
+  end_body;
+end_primitive;
+
+END.

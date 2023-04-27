@@ -1,0 +1,345 @@
+#ISCELL
+  standard sfdk_page1_a3 *
+  *
+#ISCELL
+  standard vcc *
+  page29_i1
+#CELL
+  rcl c *
+  page29_i100
+#ISCELL
+  standard gnd *
+  page29_i101
+#CELL
+  rcl c *
+  page29_i102
+#CELL
+  rcl c *
+  page29_i103
+#CELL
+  rcl c *
+  page29_i104
+#CELL
+  rcl r *
+  page29_i105
+#CELL
+  rcl r *
+  page29_i106
+#CELL
+  rcl r *
+  page29_i107
+#CELL
+  rcl r *
+  page29_i108
+#CELL
+  rcl r *
+  page29_i109
+#ISCELL
+  standard gnd *
+  page29_i11
+#CELL
+  rcl c *
+  page29_i110
+#CELL
+  rcl r *
+  page29_i111
+#CELL
+  rcl c *
+  page29_i112
+#CELL
+  rcl c *
+  page29_i113
+#ISCELL
+  standard gnd *
+  page29_i114
+#ISCELL
+  standard vcc *
+  page29_i115
+#ISCELL
+  standard gnd *
+  page29_i116
+#ISCELL
+  standard vcc *
+  page29_i117
+#CELL
+  _ku_v1_0 adi_ad9739a *
+  page29_i118
+#ISCELL
+  standard vcc *
+  page29_i119
+#ISCELL
+  standard vcc *
+  page29_i12
+#ISCELL
+  standard vcc *
+  page29_i120
+#CELL
+  rcl c *
+  page29_i128
+#CELL
+  rcl c *
+  page29_i129
+#CELL
+  murata mur_blm18 *
+  page29_i13
+#CELL
+  rcl c *
+  page29_i14
+#ISCELL
+  standard vcc *
+  page29_i15
+#CELL
+  rcl c *
+  page29_i16
+#CELL
+  rcl c *
+  page29_i17
+#CELL
+  rcl c *
+  page29_i18
+#CELL
+  rcl c *
+  page29_i19
+#ISCELL
+  standard gnd *
+  page29_i2
+#CELL
+  rcl c *
+  page29_i20
+#CELL
+  rcl c *
+  page29_i21
+#CELL
+  murata mur_blm18 *
+  page29_i23
+#ISCELL
+  standard vcc *
+  page29_i24
+#CELL
+  rcl c *
+  page29_i25
+#CELL
+  rcl c *
+  page29_i26
+#CELL
+  rcl c *
+  page29_i27
+#CELL
+  rcl c *
+  page29_i28
+#CELL
+  rcl c *
+  page29_i29
+#CELL
+  rcl r *
+  page29_i3
+#ISCELL
+  standard gnd *
+  page29_i30
+#CELL
+  rcl c *
+  page29_i31
+#CELL
+  rcl c *
+  page29_i32
+#CELL
+  rcl c *
+  page29_i33
+#CELL
+  rcl c *
+  page29_i34
+#ISCELL
+  standard vcc *
+  page29_i35
+#CELL
+  murata mur_blm18 *
+  page29_i36
+#ISCELL
+  standard vcc *
+  page29_i37
+#ISCELL
+  standard vcc *
+  page29_i38
+#CELL
+  rcl c *
+  page29_i39
+#CELL
+  rcl r *
+  page29_i4
+#CELL
+  rcl r *
+  page29_i40
+#ISCELL
+  standard gnd *
+  page29_i41
+#ISCELL
+  standard gnd *
+  page29_i42
+#ISCELL
+  _ku_v1_0 replicate *
+  page29_i43
+#ISCELL
+  _ku_v1_0 replicate *
+  page29_i44
+#CELL
+  rcl c *
+  page29_i45
+#CELL
+  rcl c *
+  page29_i46
+#CELL
+  rcl c *
+  page29_i47
+#ISCELL
+  standard vcc *
+  page29_i48
+#CELL
+  rcl c *
+  page29_i49
+#CELL
+  rcl c *
+  page29_i50
+#CELL
+  rcl c *
+  page29_i51
+#CELL
+  rcl c *
+  page29_i52
+#CELL
+  rcl c *
+  page29_i53
+#CELL
+  rcl c *
+  page29_i54
+#CELL
+  rcl c *
+  page29_i55
+#CELL
+  rcl c *
+  page29_i56
+#CELL
+  murata mur_blm18 *
+  page29_i58
+#CELL
+  rcl c *
+  page29_i59
+#CELL
+  rcl c *
+  page29_i60
+#CELL
+  rcl c *
+  page29_i61
+#ISCELL
+  standard vcc *
+  page29_i62
+#CELL
+  rcl c *
+  page29_i63
+#CELL
+  rcl c *
+  page29_i64
+#CELL
+  rcl c *
+  page29_i65
+#CELL
+  rcl c *
+  page29_i66
+#CELL
+  rcl c *
+  page29_i67
+#CELL
+  rcl c *
+  page29_i68
+#CELL
+  rcl c *
+  page29_i69
+#CELL
+  rcl c *
+  page29_i70
+#ISCELL
+  standard vcc *
+  page29_i71
+#ISCELL
+  standard vcc *
+  page29_i72
+#CELL
+  rcl r *
+  page29_i73
+#ISCELL
+  standard vcc *
+  page29_i74
+#ISCELL
+  standard gnd *
+  page29_i75
+#CELL
+  rcl r *
+  page29_i76
+#ISCELL
+  standard gnd *
+  page29_i77
+#CELL
+  rcl r *
+  page29_i78
+#ISCELL
+  standard gnd *
+  page29_i79
+#CELL
+  _ku_v1_0 mc_tc1_33_75g2 *
+  page29_i80
+#CELL
+  rcl c *
+  page29_i81
+#CELL
+  rcl c *
+  page29_i82
+#CELL
+  _ku_v1_0 mc_bfcg_xxxx_4pin *
+  page29_i83
+#ISCELL
+  standard gnd *
+  page29_i84
+#ISCELL
+  standard gnd *
+  page29_i85
+#CELL
+  rcl r *
+  page29_i86
+#CELL
+  _ku_v1_0 mc_hfcn_xxxx_4pin *
+  page29_i87
+#CELL
+  rcl c *
+  page29_i88
+#CELL
+  _ku_v1_0 mc_lfcg_xxxx *
+  page29_i89
+#ISCELL
+  standard gnd *
+  page29_i90
+#CELL
+  rcl r *
+  page29_i91
+#CELL
+  rcl r *
+  page29_i92
+#CELL
+  rcl r *
+  page29_i93
+#ISCELL
+  standard gnd *
+  page29_i94
+#ISCELL
+  standard gnd *
+  page29_i95
+#CELL
+  _ku_v1_0 mc_dvga2_33a *
+  page29_i96
+#CELL
+  rcl r *
+  page29_i97
+#CELL
+  rcl r *
+  page29_i98
+#CELL
+  rcl r *
+  page29_i99

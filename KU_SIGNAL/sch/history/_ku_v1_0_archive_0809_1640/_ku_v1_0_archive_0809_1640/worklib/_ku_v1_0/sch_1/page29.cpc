@@ -1,0 +1,66 @@
+#ISCELL
+  standard sfdk_page1_a3 *
+  *
+#ISCELL
+  standard gnd *
+  page30_i1
+#ISCELL
+  standard vcc *
+  page30_i12
+#CELL
+  rcl r *
+  page30_i16
+#ISCELL
+  standard gnd *
+  page30_i17
+#ISCELL
+  standard gnd *
+  page30_i18
+#CELL
+  _ku_v1_0 will_mos_n *
+  page30_i19
+#ISCELL
+  standard gnd *
+  page30_i2
+#ISCELL
+  standard gnd *
+  page30_i20
+#CELL
+  _ku_v1_0 esd_uni *
+  page30_i21
+#CELL
+  _ku_v1_0 will_mos_n *
+  page30_i3
+#CELL
+  rcl r *
+  page30_i39
+#ISCELL
+  standard vcc *
+  page30_i40
+#ISCELL
+  standard vcc *
+  page30_i41
+#ISCELL
+  standard vcc *
+  page30_i42
+#CELL
+  rcl r *
+  page30_i43
+#ISCELL
+  standard vcc *
+  page30_i44
+#CELL
+  rcl r *
+  page30_i45
+#CELL
+  rcl r *
+  page30_i5
+#CELL
+  rcl r *
+  page30_i7
+#CELL
+  rcl r *
+  page30_i8
+#CELL
+  rcl r *
+  page30_i9

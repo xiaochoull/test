@@ -1,0 +1,13 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SC431CSKQTRT'
+
+{========================================================================================}
+:PART_NUMBER(OPT)   | JEDEC_TYPE(OPT)   | APP_NAME(OPT)   | COMPANY(OPT)   | VALUE(OPT)     = L_W_T                  | DESIGN      | CHECK         | MODIFY | COST | STATE | DATE         | TA    ;
+{========================================================================================}
+ '37010019'         | 'SEM_SOT23_3_S'   | 'SC431CSKQTRT'  | 'SEMTECH'      | 'SC431CSKQTRT'(!) = '3.04MM_2.64MM_1.12MM' | 'LIUAILING' | 'CHENYANQING' | '**'   | '**' | '1'   | '2010-08-30' | '25C'
+
+END_PART
+
+END.
+

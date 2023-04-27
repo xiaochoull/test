@@ -1,0 +1,19 @@
+\t (00:00:00) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:00)     Journal start - Mon Aug 29 18:31:13 2022
+\t (00:00:00)         Host=MARKITA User=Administrator Pid=6276 CPUs=4
+\t (00:00:00) 
+\t (00:00:00) Opening existing design...
+\d (00:00:00) Database opened: Z:/08Ku信号处理模块/pcb/kupl_t_0825.brd
+\i (00:00:00) trapsize 8863
+\i (00:00:00) trapsize 8701
+\i (00:00:00) trapsize 8891
+\i (00:00:01) trapsize 8969
+\i (00:00:01) trapsize 10738
+\i (00:00:01) trapsize 10738
+\i (00:00:01) etchedit 
+\t (00:00:06) Begin Load EDA365 Skill...
+\t (00:00:06) >>EDA365 Skill V2.5 加载成功!
+\t (00:00:06) >>菜单快捷键CTRL+E
+   (00:00:06) Loading cmds.cxt 
+\i (00:00:08) exit 
+\t (00:00:08)     Journal end - Mon Aug 29 18:31:21 2022

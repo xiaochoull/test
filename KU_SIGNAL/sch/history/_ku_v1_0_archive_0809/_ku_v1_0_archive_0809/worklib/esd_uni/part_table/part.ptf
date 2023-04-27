@@ -1,0 +1,17 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ESD_UNI'
+
+
+{========================================================================================}
+:PART_NUMBER(OPT) | JEDEC_TYPE(OPT) | APP_NAME(OPT) | COMPANY(OPT) = DESIGN | CHECK | MODIFY | COST | STATE | DATE | L_W_H | T_OPERATING ;
+{========================================================================================}
+'********' | 'will_dfn1006-2l' | 'ESD5681N07-2/TR' | 'will semi'(!) = 'kita' | '**' | '**' | '**' | '1' | '2021-08-17' | '1.0mm_0.6mm_0.53mm'|'-40C - 85C'
+'********' | 'will_dfn1006-2l' | 'ESD5681N15-2/TR' | 'will semi'(!) = 'kita' | '**' | '**' | '**' | '1' | '2021-08-17' | '1.0mm_0.6mm_0.53mm'|'-40C - 85C'
+'********' | 'will_dfn1006-2l' | 'VESD15A1-HD1-G4-08' | 'vishay'(!) = 'kita' | '**' | '**' | '**' | '1' | '2021-08-17' | '1.0mm_0.6mm_0.53mm'|'-40C - 85C'
+
+
+
+END_PART
+END.
+

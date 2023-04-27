@@ -1,0 +1,13 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'lm25069pmme_2'
+
+{========================================================================================}
+:PART_NUMBER(OPT)   | APP_NAME(OPT)        | VALUE(OPT)           | JEDEC_TYPE(OPT)   | COMPANY(OPT)   = DESING        | CHECK | MODIFY | COST | STATE | DATE         | L_W_T              | TEMP           | VIN            | PGD         | STORAGETEMPERATURE ;
+{========================================================================================}
+ '37020001'        | 'lm25069pmme_2/nopb' | 'lm25069pmme_2/nopb' | 'MAC_MSOP_10_S'   | 'ns'(!)        = 'cwx'         | ''    | '**'   | '**' | '1'   | '2009-03-26' | '4.9mm_3mm_1.1mm' | '-40 to +85c'    | '+2.9v to 17v' | '0v to 17v' | '-65 to +150c'    
+
+END_PART
+
+END.
+
